@@ -1,0 +1,984 @@
+{
+  "documentId": "on-air-manual",
+  "title": "On-Air CMS User Manual",
+  "pages": [
+    {
+      "page": 1,
+      "text": "A U T H E N T I C A T I O N\nA U T H E N T I C A T E\nS E C U RE L Y V I A T H E\nL O G I N  I N T E RF A C E\n\n\n\n+ OPERATIONAL PROCEDURE (2-3 STEPS)\n+ 1. Enter your assigned username into the\nUsername field.\n+ 2. Type your secure account password into the\nPassword field.\n+ 3. Click the primary blue 'Login' button to\naccess the editorial management workspace.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 2,
+      "text": "•  After logging in, you are taken to the Home Page\n                                                     editor dashboard. From here, you can:\n                                                                            •  Create Content: Use the top buttons to quickly add\n                                          News, Photos, Video, or Live News.\n                                                                            •  Search: Use the search bar to find any page or article\n                                                        across the CMS.H O M E P A G E\n( D A S H B O A RD )                      • View Recent Stories: The main feed shows recently                                                  published items with their status, publication time, and\n    – A F T E R                   management options.\n                                                                            •  Navigate: Use the left sidebar to access CMS News, All\n                                                        Stories, News Sorting, Snippets Setup, and Collections.     L O G I N\n                                                                            • Manage Account: Use the top-right icons to visit the\n                                                             live website, check notifications, and access your profile\n                                                           settings.\n                                                                            •  This dashboard provides a central hub for monitoring\n                                                   recent activity and creating new content.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 3,
+      "text": "H O M E  P A G E   I M A G E",
+      "ocrText": "HOME\n\nPAGE IMAGE\n\nOs9%\n\noO\n\n88\n\nHome Page\n\n©\n\n3\n\n&\n\nNewsLab\n\nMs News\n\nWelcome to NewsLab CMS\n\nAll stories\n\nrs\n\nNews Sorting\n\n+ Add Video\n\nSnippets Setup\n\nCollections\n\nQ\\ Search ll pages.\n\nchetar You aaa eTatae-Saaha afem, as 38\n\nwe\n\nhour ag\n\nwe\n\n2ohour ag)\n\nae rer Fron geet tera\n\nwe\n\n‘facatdiors eee Force cat Free a4\n\neae ag\n\natta, wea\n\nof\n\nrma em @\n\nWe\n\nasap\n\nas\n\nfaz\n\nBa\n\nsree\n\nm fafa\n\nad\n\nA\n\n-\n\nRrowafga a6 4 airs stares onfzatts cam oo cate aft\n\nwe\n\neae ag\n\nrenters fate ah\n\nwe\n\nSdaye agp\n\nTRI TT oes ATC ee TATE IR: seer\n\nWe\n\naap\n\nwt\n\noct, 2008\n\n‘gfe dict S00 54 Teh Bere, Boe co UAE ET",
+      "source": "text+ocr"
+    },
+    {
+      "page": 4,
+      "text": "• CMS News\n\n                                                                                         •  Create and publish content. Expand to add News, Photo Story,\n                                                   Video News, Live News, or Web Story.\n\n                                                                                         •  All Stories\n\n                                                                                         •  View and manage all published and draft stories in one\n                                                               centralized list.\n\n                                                                                         •  News Sorting\n\n                                                                                         •  Organize and reorder news items to control their display C O L L A P S I B L E                                                       sequence on the website.\nS I D E B A R M E N U                          •  Snippets Setup\n                                                                                         •  Manage supporting content elements including Authors, Tags,\n                                                          Images, Categories, SubCategories, Menus, Gold Price, Point\n                                                              Table, Trivia, and Today's Match.\n\n                                                                                         •  Collections\n\n                                                                                         •  Access and manage grouped content collections through the\n                                                            Collections List.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 5,
+      "text": "S I D E B A R M E N U ' S",
+      "ocrText": "SIDEBAR MENU'S\n\nWwewouuw\n\nNews Sorting\n\nv\n\n% snippets Setup\n\n«& CMS News\n\nNewsLab\n\n-\n\nNews Sorting\n\nAuthor List\n\nCMS News\n\nAdd News\n\nTags\n\nImages\n\nAdd Photo Story\n\nAll Stories\n\nAdd Video News\n\nCategory\n\nNews Sorting\n\nAdd Live News\n\nSubCategory\n\nAdd Web Story\n\nMenu Manage\n\nSnippets Setup\n\nGold Price\n\nCollections\n\nPoint Table\n\na\n\nAll Stories\n\n# collections\n\nTrivia\n\n-\n\nAll Stories\n\n-\n\nCollections List\n\nToday's Match",
+      "source": "text+ocr"
+    },
+    {
+      "page": 6,
+      "text": "A D D N E W S  – 1\nU S E T H I S  F O R M T O  C R E A T E A N D  P U B L I S H  A N E W N E W S  A R T I C L E  .\n•  Content Fields\n\n•  Headline: Enter the main news headline (required).\n\n•  Sub Heading: Add an optional subheading.\n\n•  Content: Write the article body using the rich text editor. Use the toolbar for headings, bold, italic, lists, links, and special in serts like \"Big\n   fact,\" \"AlsoRead,\" \"Embed,\" \"Gallery,\" or \"Image.\" A live word and character counter is displayed below the editor.\n\n•  Excerpt: Write a short summary for the homepage (maximum 300 characters).\n\n•  Categorization & References (Right Panel)\n\n•  Category: Select the main category for the article (required).\n\n•  SubCategory: Choose a subcategory based on the selected category.\n\n•  Tags: Assign relevant tags to the article.\n\n•  Reference News: Link up to 3 related news articles.\n\n•  Display Title: Enter a shorter title for display purposes (maximum 100 characters).\n\n•  Don't show in latest: Toggle whether the story appears on the latest news page. It will still appear on category, tag, and author pages.\n\n•  Media\n\n•  News Image: Upload the main featured image for the article (required).\n\n•  Alternative News Image: Upload an optional secondary image.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 7,
+      "text": "A D D N E W S   I M A G E  -  1",
+      "ocrText": "ADD NEWS IMAGE\n\n1\n\n© 55009\n\nry\n\n2\n\n8\n\n‘Add News\n\n©\n\nOo\n\n&\n\n© sub Heading\n\n© Category *\n\nSelect categories\n\n© Headline *\n\n© subcategory\n\nEnter your News Headline here...\n\n© Tags\n\nSelect tags\n\n© Content *\n\n© Reference News\n\nwwe BOT\n\n$6 bigfact\n\n@ +insaty\n\nSelect reference news\n\n‘Select upto 3 news\n\nStart writing here\n\n© Display Title\n\n{ Enter display title...\n\n‘Max 100 characters\n\nTOTAL Words © Paragraphs 0 Characters © No spaces 0\n\n© Don't show in latest\n\nvit |{Camee [ome {omy |[ me |{ trawn ||\n\nRescate\n\n«\n\nOff: shown on the latest page\n\n4 Prot Read\n\n‘Category, subcategory, ag and author pages always show te story.\n\n© Excerpt\n\n© News image\n\n© Alternative News image\n\nTo show excerpt homepage, maximum 300 characters",
+      "source": "text+ocr"
+    },
+    {
+      "page": 8,
+      "text": "A D D N E W S  –  2\nU S E T H I S  F O R M T O  C R E A T E A N D  P U B L I S H  A N E W N E W S  A R T I C L E .\n•  Author & Story Settings (Lower Left)\n\n•  Summary: Enable or disable a summary section for the article.\n\n•  Author: Select the author(s) of the article, up to 3 (required).\n\n•  Author Location: Enter the author's location if applicable.\n\n•  Initial: Select an initial identifier if required.\n\n•  Alternative Title: Add an alternate title if needed.\n\n•  Highlight: Mark the story as a highlight if applicable.\n\n• SEO & Features (Lower Right)\n\n•  Featured Items: Select if the article should appear in featured sections.\n\n•  Meta Title: Enter the page title for search engine results (maximum 255 characters).\n\n•  Meta Description: Write the descriptive text shown in search engine results.\n\n•  Meta Keyword: Add keywords to improve searchability (maximum 500 characters).\n\n•  Publishing Options (Bottom Bar)\n\n•  Alert: Add internal instructions or notes for the team. This field is cleared once the article is published.\n\n•  Actions: Save the article as a Draft, Publish it immediately, or Schedule it for a future date and time.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 9,
+      "text": "A D D N E W S  I M A G E  -  2",
+      "ocrText": "ADD NEWS IMAGE\n\n2\n\n© Featured items\n\n© summary\n\nEnable Summary\n\n[se\n\n© Author *\n\n© Meta Title\n\nSelect authors\n\nThe name of the page displayed on search engine results asthe clickable headline.\n\nSelect up to 3 authors\n\n0/255 characters\n\n© Author Location\n\n© Meta description\n\n“The descriptive text displayed undemeath aheadlne in search engin results.\n\n© initial\n\nSelect\n\nitil\n\n© Alternative Title\n\nOcharacters\n\n© Highlight\n\n© Meta Keyword\n\n(0/500 characters\n\nTnctrcton for team\n\nOden\n\npub)\n\nSoc cocs",
+      "source": "text+ocr"
+    },
+    {
+      "page": 10,
+      "text": "C O N T E N T R I C H - T E X T  E D I T O R  – H T M L T A G S &  F E A T U R E S\n• The content editor works like a word processor. When you format text, the system automatically converts it into\n  standard HTML tags for the website. Here is what each tool creates behind the scenes:\n\n•  Text Formatting\n\n•  Bold (B): Wraps text in <strong> tags to make it bold.\n\n•  Italic (I): Wraps text in <em> tags for emphasis/italics.\n\n• H2, H3, H4: Creates heading tags <h2>, <h3>, and <h4> to structure your article hierarchy. H2 is the largest\n  subheading, H4 is the smallest.\n\n•  Paragraphs & Blocks\n\n• Normal text: Written content becomes <p> (paragraph) tags.\n\n•  Quote: Formats text as a <blockquote> to highlight quoted material.\n\n•  Big Fact: Usually generates a styled <div> or <aside> block with special CSS classes to highlight key facts or\n   statistics.\n\n•  Split block at the cursor: Splits the current paragraph or block into two separate <p> or container tags at the\n  cursor position.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 11,
+      "text": "•  Alignment\n\n•  Align center: Applies text-align: center via inline styles or CSS classes to the block.\n\n•  Justify: Applies text-align: justify to evenly space text across the line.\n\n•  Lists\n\n•  Numbered list: Creates an ordered list using <ol> and <li> tags.\n\n•  Bulleted list: Creates an unordered list using <ul> and <li> tags.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 12,
+      "text": "I N S E RT  L I N K\n\n•  Insert External Link\n\n•  Link to a page outside your website. Select the External link tab, paste the destination URL (required), enter the Link\n   text, and click Insert Link. A preview of the link is shown before insertion. This creates a standard HTML <a> tag\n   pointing to an external address.\n\n•  Insert Internal Link\n\n•  Link to another page within your own website. Select the Internal link tab, type keywords in Search pages to find the\n   target article, enter the Link text, select the desired page from the results, and click Insert Link. This creates an HTML\n  <a> tag using your site's internal URL.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 13,
+      "text": "I N S E RT   I M A G E  F RO M R I C H - T E X T E D I T O R\n\n•  Click the Image button in the content editor toolbar to open the image selection modal. From here,\n  you can select an existing image from the media library or upload a new one.\n•  Choose an Image – Search\n• On the Search tab, browse the media library. Use the search bar to find images by title, then click on\n  any thumbnail to select it. Use the pagination controls at the bottom to navigate through the library.\n•  Choose an Image – Upload\n•  Switch to the Upload tab to add a new image. Click Choose File to select an image from your device\n  (supported formats: AVIF, GIF, JPG, JPEG, PNG, WEBP; maximum 1.0 MB). Enter a Title (required),\n  and optionally add a Caption, Tags, and Attribute. Click Upload to save the image to the library and\n  proceed.\n• Add Image Caption & Alignment\n•  After selecting or uploading an image, the Add Image Caption modal opens. A preview of the image\n  appears at the top.\n•  Caption: Enter or edit the image caption text.\n•  Alignment: Select how the image will display in the article, such as Full width, Left, or Right.\n•  Click Insert Image to place the image into the article with the applied caption and alignment settings.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 14,
+      "text": "I N S E RT   I M A G E V I S U A L V I E W\n\n\n\n\n\n                                                                                                                       • Add Image Caption\n                                                           & Alignment\n\n\n\n\n\n• Choose an Image – Search\n\n\n\n\n\n                                     • Choose an Image – Upload",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 15,
+      "text": "I N S E RT T A B L E\n\n•  Click the Table option from the content editor's insert menu to add a data table to your article. In the modal,\n   enter the number of Rows and Columns you need (default is 2x2), then click Add to insert the table or Cancel to\n   close without adding.\n\n• Once inserted, the table appears directly inside the content editor as an editable grid. Click on any cell to start\n   typing or pasting content. The table is rendered within the article body using standard HTML table markup,\n   allowing you to present structured data clearly.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 16,
+      "text": "I N S E RT G A L L E RY\n\n•  Click the Gallery button in the content editor toolbar to open the image selection modal and create an image\n   gallery.\n•  Select Multiple Images – Search\n• On the Search tab, browse the media library. Use the search bar to find images by title. Click on multiple images to\n   select them; a checkmark appears on each selected item. The bottom of the modal shows how many images are\n   selected (for example, \"3 selected\"). Use pagination to browse more images. Once you have selected all desired\n   images, click Insert Gallery to add them to the article.\n•  Upload New Images – Upload\n•  Switch to the Upload tab to add new images directly to the gallery. Click Choose File to select an image from your\n   device (supported formats: AVIF, GIF, JPG, JPEG, PNG, WEBP; maximum 1.0 MB). Enter a Title (required), and\n   optionally add a Caption, Tags, and Attribute. Click Upload to save the image. You can upload multiple images this\n  way before inserting the gallery.\n•  Gallery in the Content Editor\n•  After insertion, a gallery block labeled Gallery 1 appears in the article. Each image in the gallery displays with:\n• An SL No field to set the serial or sort order.\n• A Caption field to add a description for each image.\n• A red X button on each image to remove it individually.\n•  Use the Add more image button to open the modal again and add additional photos to the existing gallery. Use the\n   blue up/down arrows to move the entire gallery block within the content, or click the red X at the top-right to\n   delete the whole gallery.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 17,
+      "text": "I N S E RT G A L L E RY V I S U A L V I E W\n\n\n\n\n\n•  Select Multiple Images – Search                                      •  Gallery in the Content Editor",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 18,
+      "text": "U P L O A D N E W   I M A G E S  – U P L O A D\n\n\n\n\n\n                    • Upload New Images – Upload",
+      "ocrText": "=\n\nUPLOAD NEW IMAGES\n\nUPLOAD\n\nSearch\n\nUpload\n\nFile*\n\n[ Choose File | No file chosen\n\nSupported formats: AVIF. GIF, JPG, JPEG, PNG, WEEP Maximum filesize: 1,0 MB.\n\nTitle*\n\n|\n\nCaption\n\nTags\n\n‘Tyre to search tags...\n\nPress Enter or comma to add a tag. Type to search existing tags.\n\nAttribute\n\n2 Upload\n\nO selected\n\n_ zs\n\n* Upload New Images — Upload",
+      "source": "text+ocr"
+    },
+    {
+      "page": 19,
+      "text": "I N S E RT Y O U T U B E V I D E O\n\n•  Click the YouTube video option from the content editor's insert menu to embed a YouTube video. In the modal, paste the\n  YouTube URL into the field (supports both youtube.com and youtu.be links). A live Preview of the video appears\n   automatically below the URL field so you can confirm the correct video before inserting it. Click Insert Video to embed it\n   into the article, or Cancel to close without adding.\n\n• Once inserted, the video appears as an embedded player directly inside the content editor with a play button overlay. Use the\n   top-right toolbar on the video block to expand the view, move the video up or down within the content, or remove it.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 20,
+      "text": "I N S E RT  S O C I A L E M B E D\n\n•  Click the Social Embed option from the content editor's insert menu to add external content. In the modal, paste the\n   platform's embed code (such as an <iframe>) into the Embed code field. The system automatically detects the source\n   platform (for example, \"iframe from youtube.com\"). Click Insert to place the embed into your article.\n\n• Once inserted, a live preview of the embedded content appears directly in the content editor. Use the arrow buttons on\n   the block to move it up or down within the article, or click the red delete button to remove it.\n\n\n\n\n\n      Insert Embed video                     Embed video in the Content Editor",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 21,
+      "text": "I N S E RT  P D F\n\n•  Click the PDF option from the content editor's insert menu to attach a PDF document to your article.\n\n•  Choose a Document – Search\n\n• On the Search tab, browse the existing document library. Use the Search term field to filter documents by title.\n  The list shows each document's title, file path, and creation date. Click on the desired document to select and\n   insert it.\n\n•  Choose a Document – Upload\n\n•  Switch to the Upload tab to add a new PDF. Enter a Title (required), click Choose File to select a PDF from\n  your device (PDF format only, maximum 10 MB), and optionally add Tags. Click Upload to save the\n  document to the library and insert it, or Reset to clear the fields.\n\n• PDF in the Content Editor\n\n•  After insertion, a PDF DOCUMENT block appears in the article content showing the document title. Use\n   the block controls to move it up or down within the article, or delete it if needed.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 22,
+      "text": "P D F V I S UA L V I E W\n\n\n\n\n\n      •  Choose a Document – Search                                                                                        • PDF in the Content Editor",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 23,
+      "text": "U P L O A D  P D F\n\n\n\n\n\n                                           •  Choose a Document – Upload",
+      "ocrText": "UPLOAD PDF\n\nG Choose a document\n\nSearch\n\nUpload\n\nTitle *\n\nFile *\n\n[ Choose File\n\nNo file chosen\n\nSupported format: POF. Maximum filesize: 10 MB.\n\nTags\n\n[\n\nMulti-word tags with spaces will automatically be enclosed in double quotes (~)\n\n=\n\n* Choose a Document — Upload",
+      "source": "text+ocr"
+    },
+    {
+      "page": 24,
+      "text": "I N S E RT A L S O R E A D\n\n•  Click the AlsoRead button in the content editor toolbar to recommend a related story within your article. A\n  modal titled Choose Add story will open, displaying a searchable list of all published (LIVE) articles. Use the\n   search bar to find a specific story, then click on the desired title to select it.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 25,
+      "text": "I N S E RT E D P D F P RE V I E W\n\n•  Once inserted, an ALSO READ block appears inside the content editor showing the linked story title. You\n   can reposition the block using the up and down arrows, or remove it by clicking the red delete button.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 26,
+      "text": "I N S E RT D I V I D E R L I N E\n\n\n Click the Divider line option from the content editor's insert menu to add a horizontal separating line\n between sections of your article. Once inserted, a block labeled \"Divider line\" appears in the editor with a\n  visual horizontal rule. On the published page, this renders as an HTML <hr> tag to create a clear content\n break.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 27,
+      "text": "C O N T E N T B L O C K B U T T O N S\n•  Below the main editor, these buttons let you quickly add special content blocks and access writing tools:\n\n•  Richtext: Opens an additional rich-text editor block to create a new content section within the article.\n\n•  AlsoRead: Inserts a related story recommendation block linking to another article.\n\n•  Embed: Adds a block for external content such as social media posts or iframe embeds.\n\n•  Gallery: Inserts an image gallery block to display multiple photos.\n\n•  Image: Adds a single image block into the article body.\n\n•  Fullscreen: Expands the editor to full-screen mode for distraction-free writing.\n\n•  Generate Headline: Automatically suggests or generates a headline based on the article content.\n\n•  Proof Read: Runs a proofreading check to review the article for errors or improvements.\n\n•  Content Statistics\n\n• The bar above the buttons shows live stats comparing content up to the cursor versus the full article: Words,\n   Paragraphs, Characters, and Characters without spaces.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 28,
+      "text": "F U L L S C R E E N C O N T E N T B O D Y V I E W",
+      "ocrText": "FULLSCREEN CONTENT BODY VIEW\n\nBI\n\nweet\n\nEJ\n\nE<]",
+      "source": "text+ocr"
+    },
+    {
+      "page": 29,
+      "text": "A D D  S U M M A RY\n\n•  Toggle the Enable Summary switch to activate the article summary feature. When enabled, an Add Summary modal opens where\n  you can write a brief overview of the article manually, or click Generate with AI to create one automatically from the news\n   content. The summary is limited to 1000 characters, with a live counter showing your current length. Click Add to save the\n  summary, or Cancel to close without saving.\n\n• Once added, the summary appears as a dedicated block within the article. You can click the Edit button next to the toggle at\n  any time to modify the summary content.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 30,
+      "text": "C A T E G O RY ,  S U B C A T E G O RY &  P I N T O C A T E G O RY  P A G E\n\nIn the Add News form, you can assign a story to multiple categories and subcategories. Select the desired items from\nthe dropdowns for each field. One category and one subcategory can be marked as Primary to set the main\nclassification.\n\nThe Pin in category page section shows toggles for each selected category. Turn a toggle on to pin the story to the\ntop of that category's public page as the lead story. The pinned item remains fixed in the lead position until you\nchange or remove it.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 31,
+      "text": "T A G S\n\n• Assign one or more tags to the article using the multi-select dropdown. Selected tags\n  appear as chips at the top of the field. Click the X on any chip to remove a tag. Use the\n  Search field to quickly find and select tags from the existing list.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 32,
+      "text": "R E F E R E N C E N E W S\n• Link up to 3 related news articles to the current story using the multi-select dropdown.\n  Selected articles appear as chips at the top of the field; click the X to remove any selection.\n  Use the Search field to quickly find articles from the list. A maximum of 3 reference news\n  items can be selected.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 33,
+      "text": "F E A T U RE D  I T E M S\n\n •  Select a featured section where the story will be prominently displayed, such as Lead Section, Second Lead, LiveFeatured, or\n   FeaturedVideo.\n\n •  After selecting a section, choose a Position (0 to 9) to set the story's placement order within that section. The News Sorting\n   preview below shows the existing stories in the selected section and highlights exactly where the new story will be inserted.\n  You can also drag rows using the handle icons to manually reorder stories within the list.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 34,
+      "text": "A F T E R S E L E C T  P O S I T I O N",
+      "ocrText": "AFTER SELECT POSITION\n\n© Featured Items\n\nLead Section\n\n| Position 1\n\n© News Sorting\n\n@ Drag rows to reorder. The highlighted row shows where the new story will be inserted.\n\nPosition\n\nNews Title\n\nHH\n\noreaara yout 44 creat Usa, GIGS 38\n\na a a a al a lala ttt tea teeta\n\n'>\n\n© New story will appear here\n\nRR I RSS\n\n2¥\n\nICA DIAS HRA 8 YONG, Weerta Stora Bras\n\nPATA AGHA WSCA APA AA do TTA VS, GIRS e\n\n#3\n\n4\n\nv\n\nfacet’ Sorts ears Rite Pury cea? Tie afos oa fecacy\n\nTET",
+      "source": "text+ocr"
+    },
+    {
+      "page": 35,
+      "text": "S C H E D U L E P U B L I S H I N G\n\n•  Click the Schedule button at the bottom of the Add News form to set a future publication date and time. In the modal,\n   click the Publish date & time field and select the desired date and time from the picker (required).\n\n• Once a date and time are selected, a confirmation box appears showing the exact scheduled time (for example, \"Monday,\n  26 October 2026 at 12:07\") and a countdown (for example, \"Publishes in 21 hours, 18 minutes\"). Review the details, then\n   click Schedule Publish to confirm. The article will be published automatically at the selected moment. Click Cancel to\n   close the modal without scheduling.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 36,
+      "text": "A C T I O N B U T T O N S\n\n•  At the bottom of the Add News form, the action bar lets you finalize the article:\n\n•  Mobile Preview: Preview how the article will look on a mobile device.\n\n•  Desktop Preview: Preview how the article will appear on a desktop screen.\n\n•  Publish: Make the article live on the website immediately.\n\n•  Save as Draft: Save the article without publishing so you can edit it later.\n\n•  Schedule: Set a future date and time for the article to be published automatically.\n\n•  Article Preview\n\n•  Click the Mobile or Desktop preview button to open a live preview of the article before publishing. The preview\n  shows exactly how the headline, content, and layout will appear to readers on the public website. Toggle between\n  Desktop and Mobile views at the top of the preview screen to check responsiveness across devices.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 37,
+      "text": "A RT I C L E P RE V I E W M O B I L E A N D D E S K T O P V I E W",
+      "ocrText": "ARTICLE PREVIEW MOBILE AND DESKTOP VIEW\n\nON\n\ncoe\n\nGe) SRemE see» aa\n\nGal lat TS, SIGS Voice\n\nON.\n\nBaal Glacs ott Preefat m\n\na\n\ni)\n\nf\n\n0\n\n©\n\n+\n\nGR Ala TS, SSS oss Taal Gieow dia Pratt\n\nACSA SSA Hore CN “ceal cat fear\n\nwefiiors ct exit BIZ tec GATT\n\nol\n\nfab\n\nInt reat\n\noa\n\nafssrel\n\nwt\n\nmini\n\n@ erate\n\nit\n\nra\n\nWIA az\n\nLARS\n\nBUDA STC\n\nue\n\nTal\n\niid\n\noritea\n\n(QANZAAA)\n\nWe\n\n(ory\n\nACE\n\nwg\n\nIEE\n\nUbe Sahel\n\nA Olea alla\n\nalfa! wes “ifrala ABC RI TICE\n\nsr\n\nvu\n\nSafa ise\n\nes",
+      "source": "text+ocr"
+    },
+    {
+      "page": 38,
+      "text": "A D D  P H O T O N E W S  F O R M  -  1\nU S E T H I S  F O R M T O  C R E A T E A N D  P U B L I S H  A  P H O T O - B A S E D N E W S  S T O R Y .\n\n•  Story Details\n\n•  Headline: Enter the main headline for the photo news story (required).\n\n•  Sub Heading: Add an optional subheading.\n\n•  Alternative Headline: Provide an alternate headline if needed.\n\n•  Highlight: Mark the story as a highlight if applicable.\n\n•  Photo Content & Gallery\n\n•  Photo Content: Write the main narrative or description using the rich-text editor. Use the toolbar to format text, add\n   headings, lists, links, and other media.\n\n•  Photo Blocks: Build your photo story by uploading images one by one. Each block (for example, Photo 1) includes a\n  Choose Image button, a Caption field to describe the image, and arrow/trash buttons to reorder or remove that photo.\n  Click the green + Add More button to add additional photo blocks and create a multi-image gallery story.\n\n•  Content & Excerpt\n\n•  Content: Use this additional rich-text area to add supplementary descriptions or text content for the story.\n\n•  Excerpt: Write a short summary to display on the homepage (maximum 300 words)\n\n•  Uploaded By: Enter the name or credit of the person who uploaded the content.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 39,
+      "text": "Author & Classification (Right Panel)\n•Author: Select the author(s), up to 3 (required).\n•Author Location: Enter the author's location if applicable.\n•Initial: Select an initial identifier from the dropdown.\n•Tags: Assign relevant tags to the story.\n•Display Title: Enter a short title for display purposes (maximum 100 characters).\n•Pin in category page: Toggle on to pin this story to the top of its category page. The latest pinned story appears at the top.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 40,
+      "text": "Media & SEO\n•News Image: Upload the main featured image for the photo news story (required).\n•Meta Title: Enter the SEO page title (maximum 255 characters).\n•Meta Description: Write the descriptive text shown underneath the headline in search engine results.\n•Meta Keyword: Add keywords for search engine optimization (maximum 500 characters).\n\nPublishing Options (Bottom Bar)\n•Mobile Preview: Preview how the photo story will appear on mobile devices.\n•Desktop Preview: Preview how it will appear on desktop screens.\n•Publish: Make the photo news story live on the website immediately.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 41,
+      "text": "P H O T O C O N T E N T  / C O N T E N T R I C H - T E X T  E D I T O R  –\nH T M L T A G S &  F E A T U R E S\n•  Insert Menu (+ Insert)\n\n•  Click the + Insert dropdown to add special content blocks within the photo story:\n\n•  Image: Insert a single image into the content area.\n\n•  Table: Add a data table by specifying rows and columns.\n\n•  YouTube video: Embed a YouTube video by pasting the video URL.\n\n•  Divider line: Insert a horizontal line (<hr>) to separate content sections.\n\n•  Insert Link\n\n•  Click the link icon in the toolbar to create hyperlinks. Choose between:\n\n•  Internal link: Search and link to another page within your website.\n\n•  External link: Paste an external URL and set the link text.\n\n•  Click Insert Link to add the hyperlink to the content.\n\n•  More Options (Three Dots)\n\n•  Click the three-dots menu for additional formatting tools:\n\n•  Align center: Center-align the current text block.\n\n•   Justify: Evenly space text across the line width.\n\n•  Find & replace: Search for specific text and replace it throughout the content.\n\n•  Unpin toolbar: Allow the toolbar to scroll with the page instead of remaining fixed at the top.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 42,
+      "text": "•  Standard Formatting\n\n•  Use the toolbar buttons for everyday text styling:\n\n•  H2, H3, H4: Apply heading levels to structure the content.\n\n• B (Bold): Make text bold using <strong>.\n•   I (Italic): Italicize text using <em>.\n\n•  Big fact: Highlight key facts or statistics in a styled block.\n\n•  Numbered list / Bulleted list: Create ordered (<ol>) or unordered (<ul>) lists.\n\n\n\n\n\n• Note: This all functionalities same as Add News form content Editor.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 43,
+      "text": "A D D V I D E O N E W S  F O R M\n\n•  USE THIS FORM TO CREATE AND PUBLISH A VIDEO-BASED NEWS STORY\n   Story Details\n\n•  Headline: Enter the main headline for the video news story (required).\n\n•  Sub Heading: Add an optional subheading.\n\n•  Content: Write the article body or video description using the rich-text editor. Use the toolbar to format text, add\n   headings, lists, links, and insert media.\n\n•  Excerpt: Write a short summary to display on the homepage (maximum 300 words).\n\n•  Uploaded By: Enter the name or credit of the person who uploaded the content.\n\n•  Alternative Title: Provide an alternate title if needed.\n\n•  Author & Classification (Right Panel)\n\n•  Author: Select the author(s), up to 3 (required).\n\n•  Author Location: Enter the author's location if applicable.\n\n•  Initial: Select an initial identifier from the dropdown.\n\n•  Category: Choose the main category for the story.\n\n•  SubCategory: Select a subcategory based on the chosen category.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 44,
+      "text": "•  Pin in category page: Toggle on to pin this story to the top of its category page. The latest pinned story appears first;\n  when off, stories are listed by publish time.\n\n•  Tags: Assign relevant tags to the story.\n\n  Display & Media\n\n•  Display Title: Enter a short title for display purposes (maximum 100 characters).\n\n•  News Image: Upload a featured thumbnail image for the video news story (required).\n\n  SEO Settings\n\n•  Meta Title: Enter the SEO page title (maximum 255 characters).\n\n•  Meta Description: Write the descriptive text shown underneath the headline in search engine results.\n\n•  Meta Keyword: Add keywords for search engine optimization (maximum 500 characters).\n\n   Publishing Options (Bottom Bar)\n\n•  Mobile Preview: Preview how the video story will appear on mobile devices.\n\n•  Desktop Preview: Preview how it will appear on desktop screens.\n\n•  Publish: Make the video news story live immediately.\n\n•  Save as Draft: Save the story without publishing so you can edit it later.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 45,
+      "text": "A D D V I D E O N E W S F O R M",
+      "ocrText": "ADD VIDEO NEWS FORM\n\n83 Add Video News\n\nGWebsite\n\n5:36:07\n\n608\n\n© Sub Heading\n\n© Author*\n\nSelect authors\n\n© Headline *\n\nSelect upto 3 authors\n\nEnter your News Headline here...\n\n© Author Location\n\n© Content *\n\n0 initial\n\nko HoH BT 66 Bigfact\n\n@ + insert v\n\nSelect initial\n\nCategory\n\nStart writing here..\n\nSelect category\n\n0 subcategory",
+      "source": "text+ocr"
+    },
+    {
+      "page": 46,
+      "text": "A D D V I D E O N E W S F O R M",
+      "ocrText": "ADD VIDEO NEWS FORM\n\n© Exceot\n\n@ Pinincstegory page\n\n€\n\nlisted by publish time\n\n‘Thaler in goes onto\n\nTo show excerpt homepage, marimom 300 words\n\n© Toa\n\n© Uploaded ay\n\nSelect tags\n\n© Display Title\n\n[\n\nay te.\n\n© AternativeTtle\n\n(ze\n\nrr:\n\noases\n\nNews image *\n\nce\n\n=\n\n© eta Tie\n\n“The name ofthe page displayed on search engin results asthe clickable headline.\n\n(\n\n07255 characters\n\n© hietadescristion\n\n“The descritive text displayed underneath ahealie in search engine resus\n\nO characters\n\n© iets Keyword\n\n(\n\n07500 characters\n\nBec",
+      "source": "text+ocr"
+    },
+    {
+      "page": 47,
+      "text": "A D D  L I V E  S T O R Y  F O R M\nU S E T H I S  F O R M T O C R E A T E A  L I V E  , C O N T I N U O U S L Y U P D A T I N G\nN E W S  S T O R Y .\n\n•  Story Details\n\n•  Headline: Enter the main headline for the live story (required).\n\n•  Sub Heading: Add an optional subheading.\n\n•  Excerpt: Write a short summary for the homepage (maximum 300 characters).\n\n•  Author: Select the author(s), up to 3 (required).\n\n•  Author Location: Enter the author's location if applicable.\n\n•  Initial: Select an initial identifier from the dropdown.\n\n•  Alternative Title: Provide an alternate title if needed.\n\n•  Highlight: Mark the story as a highlight if applicable.\n\n•  Categorization & Settings\n\n•  Category: Choose the main category (required).\n\n•  SubCategory: Select a subcategory based on the chosen category.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 48,
+      "text": "•  Tags: Assign relevant tags to the story.\n\n•  News Image: Upload the main featured image for the live story (required).\n\n•  Pin in category page: Toggle on to pin the story to the top of its category page.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 49,
+      "text": "• SEO Settings\n\n•  Meta Title: Enter the SEO page title (maximum 255 characters).\n\n•  Meta Description: Write the descriptive text shown in search engine results.\n\n•  Meta Keyword: Add keywords for search engine optimization (maximum 500 characters).",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 50,
+      "text": "L I V E N E W S C O N T E N T\n\n•  Click the Add live news content button to create a new live update section. Each click generates\n   a new numbered block (for example, Live Content #1, Live Content #2, and so on), allowing you to post multiple\n   sequential updates within the same live story.\n\n•  Each live content block includes:\n\n•  Pinned: Check this to keep the update fixed at the top of the live feed.\n\n•  Breaking: Check this to mark the update as breaking news.\n\n•  Delete: Remove the specific update block.\n\n•  Sub Heading (optional): Add a subheading for the update.\n\n•  Title: Enter the title of the live update.\n\n•  Image (optional): Upload an image specific to this update.\n\n•  Content: Write the update details using the rich-text editor.\n\n•  Live Content Editor\n\n• The rich-text editor toolbar provides:\n\n•  H2, H3, H4: Apply heading levels.\n\n• B / I: Bold and italic formatting.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 51,
+      "text": "•  Quote / Big fact: Insert styled quote or highlighted fact blocks.\n\n•  List buttons: Create numbered or bulleted lists.\n\n•  Link: Insert internal or external hyperlinks.\n\n• + Insert: Add images, tables, YouTube videos, or divider lines.\n\n•  Three dots: Access align center, justify, find & replace, and unpin toolbar options.\n\n• A live statistics bar below the editor shows word, paragraph, character, and space counts.\n\n•  Content Block Buttons\n\n•  Under each live content editor, quick-insert buttons let you add:\n\n•  Richtext: Add another rich-text content block.\n\n•  AlsoRead: Insert a related story reference.\n\n•  Embed: Add an external embed code block.\n\n•  Gallery: Insert a multi-image gallery.\n\n•  Image: Add a single image block.\n\n•  Publishing Options\n\n•  Mobile Preview / Desktop Preview: Review how the live story appears on different devices.\n\n•  Publish: Make the live story active on the website immediately.\n\n•  Save as Draft: Save the story without publishing to continue editing later.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 52,
+      "text": "V I S U A L V I E W  –  1",
+      "ocrText": "VISUAL VIEW\n\n1\n\nry\n\n2\n\n88\n\nAdd Live Story\n\n(._ Gwebsite\n\n© S5920\n\n1\n\nOo\n\n3\n\n© sub Heading\n\n© Category *\n\nSelect category\n\n© Headline *\n\n© subcategory\n\nEnter your Live Story Headline here...\n\n© Pin in category page\n\n© txcempt\n\ne\n\nOff: listed by publish time\n\nThe latest pin goes on top.\n\n© Taos\n\nTo show excerpt homepage, maximum 300 characters\n\nSelect tags\n\n0/300 characters\n\n© News image*\n\n© Author*\n\nSelect authors\n\nSelect upto 3 authors\n\n© Meta Title\n\n© Author Location\n\n‘The name ofthe page displayed on search engine results as the clickable headline.\n\n|\n\n0 / 255 characters",
+      "source": "text+ocr"
+    },
+    {
+      "page": 53,
+      "text": "V I S U A L V I E W  -  2",
+      "ocrText": "VISUAL VIEW\n\n2\n\n© Initial\n\n© Meta description\n\n7\n\nlect in\n\nia\n\n‘The descriptive text displayed underneath a headline in search engine results,\n\n© Alternative Title\n\n© Highlight\n\nO characters\n\n© Meta Keyword\n\n(0/500 characters\n\n\"1\" Live News Content *\n\nli\n\nn\n\nis\n\nnt\n\nPo Tio [one] sin",
+      "source": "text+ocr"
+    },
+    {
+      "page": 54,
+      "text": "V I S U A L V I E W  – 3   ( A D D  L I V E N E W S C O N T E N T )",
+      "ocrText": "VISUAL VIEW -3 (ADD LIVE NEWS CONTENT)\n\n0 Ad\n\nnt\n\nLive Content #1\n\nOF Pinned — C$ Breaking\n\nSub Heading (optional)\n\nTitle\n\n{Batre con\n\nite\n\nImage (optional) [ excioose image\n\nContent\n\nHo Ho He BI 66 Bigtact\n\n=\n\n=\n\n@ + incenv\n\nSta\n\nriting here.\n\nWords 0 Paragraphs 0 Characters 0 No spaces 0\n\nee\n\nPo ToT onan Tana |",
+      "source": "text+ocr"
+    },
+    {
+      "page": 55,
+      "text": "A D D W E B  S T O RY F O RM\nU S E T H I S  F O R M T O C R E A T E A V I S U A L  ,  S L I D E - S T Y L E W E B  S T O R Y .\n\n•  Story Details\n\n•  Headline: Enter the main headline for the web story (required).\n\n•  Sub Heading: Add an optional subheading.\n\n•  Alternative Headline: Provide an alternate headline if needed.\n\n•  Highlight: Mark the story as a highlight if applicable.\n\n• Web Story Content Blocks\n\n•  Build the story by adding sequential visual slides. Each block (for example, Content 1) contains:\n\n•  Choose Image: Upload or select the background image for that slide.\n\n•  Title: Enter a short title for the slide (maximum 100 characters).\n\n•  Caption: Add a description or narrative text for the slide (maximum 500 characters).\n\n•  Reorder / Delete: Use the arrow buttons to move the slide up or down in the sequence, or the red delete button to\n  remove it.\n\n•  Click the green + Add More button to add additional slides and build out the full web story sequence.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 56,
+      "text": "•  Excerpt\n\n•  Write a short summary for the homepage (maximum 300 characters). If left empty, the system automatically uses the\n    first slide's caption as the excerpt.\n\n•  Author & Classification (Right Panel)\n\n•  Author: Select the author(s), up to 3 (required).\n\n•  Author Location: Enter the author's location if applicable.\n\n•  Initial: Select an initial identifier from the dropdown.\n\n•  Tags: Assign relevant tags to the story.\n\n•  Pin in category page: Toggle on to pin the story to the top of its category page. The latest pinned story appears first.\n\n•  News Image: Upload the main featured thumbnail image for the web story (required).\n\n• SEO Settings\n\n•  Meta Title: Enter the SEO page title (maximum 255 characters).\n\n•  Meta Description: Write the descriptive text shown underneath the headline in search engine results.\n\n•  Meta Keyword: Add keywords for search engine optimization (maximum 500 characters).",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 57,
+      "text": "•  Publishing Options (Bottom Bar)\n\n•  Mobile Preview: Preview how the web story will appear on mobile devices.\n\n•  Desktop Preview: Preview how it will appear on desktop screens.\n\n•  Publish: Make the web story live immediately.\n\n•  Save as Draft: Save the story without publishing to continue editing later.\n\n•  Schedule: Set a future date and time for the web story to be published automatically.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 58,
+      "text": "W E B  S T O RY V I S U A L V I E W  – 2",
+      "ocrText": "WEB STORY VISUAL VIEW\n\n-2\n\nCaption\n\neer\n\n© Meta Title\n\nThe name of the page displayed on search engine results asthe clickable headline,\n\n0/500\n\n0/255 characters\n\n© Meta description\n\n© Excerpt\n\n‘The descriptive text displayed undemeath a headline in search engine results\n\nTo show excerpt homepage, maximum 300 characters, Left empty, the first caption is used.\n\n(0/300 characters\n\nOcharacters\n\n© Meta Keyword\n\n0/ 500 characters\n\nSono",
+      "source": "text+ocr"
+    },
+    {
+      "page": 59,
+      "text": "A L L  S T O R I E S  L I S T  P A G E  - V I E W",
+      "ocrText": "-\n\nALL STORIES LIST PAGE\n\nVIEW\n\nry\n\n88\n\nWea Waa\n\n{\n\nWebsite\n\nJ\n\n@ 5:54:20\n\nG\n\nO\n\ng\n\nNewsLab\n\neh CMS News:\n\n«\n\nRoot\n\nae\n\no\n\n3.\n\n=:\n\n@ Allstories\n\nShowing 125 of\n\n3\n\nv\n\nTLE\n\nUPDATED +\n\nvw\n\nTATU\n\n= All Stories\n\ni]\n\n&\n\nafore oe ADIN, CARATS TIE BM FATS MAT SLATS\n\nview\n\n2hrage\n\nRa\n\n+ Add tory\n\nuve\n\nNews Sorting\n\n® Snippets Setup\n\nAYR OI FATS PRINTS Rw S\n\nView\n\n2shrago\n\nRafi\n\nRafi\n\nAdd tory\n\nuve\n\nCollections\n\nA MRR Dara SRST: Sola COTTE a Fae Soles Tey\n\nView\n\n2shrage\n\nRafi\n\nRafi\n\nAdd tory\n\nuve\n\ncletama gtbarr viata oorerate- esata Seam, Bt 98\n\nView\n\n6 days ago\n\nRafi\n\nRafi\n\n+ Add tory\n\nuve\n\n1° Video story\n\nuve\n\nfeat Cotas ATATAT, Sa SAAT CFTC FAT AT\n\nView\n\n6 days ago\n\nView\n\nered\n\n“= Video story\n\nuve\n\n‘Faced Siem carta SICA st PrraTE aims Precas ra ofere\n\n6 days ago\n\nView\n\n6 days ago\n\nRafi\n\n# Photo story\n\nuve\n\nFars bra cata PPaceer cerca Toes aA ATT\n\nGR Feaifets SrIeTCEe “AIA RHA BTS ATI\n\nView\n\n6 days ago\n\nered\n\nMeched\n\n«# Photo story\n\nuve\n\n6 days ago\n\n+ Photo story\n\nuve\n\nane\n\nselected\n\n© Publish co)\n\nUnpublish ()\n\ntora ihe afer ster wea ATT\n\n6 days ag0\n\nMerhed\n\nMorched\n\n1 Video try\n\nuve",
+      "source": "text+ocr"
+    },
+    {
+      "page": 60,
+      "text": "A L L  S T O R I E S  L I S T  P A G E\n\n•  This page displays a centralized list of all content created in the CMS, including standard news articles, video stories,\n  photo stories, web stories, and live news updates.\n\n•  Top Controls\n\n• Add Story: Click the dropdown button to quickly create a new story. Choose from the available story types to jump\n   directly to the relevant creation form.\n\n•  Search stories: Use the search bar to find specific stories by typing keywords from the title or content.\n\n•  Drafts: Click the Drafts button to filter and view only unpublished stories saved as drafts.\n\n•  Filters / View Options: Use the filter and layout icons to refine the list by criteria such as story type, status, or author,\n  and switch between list or grid views.\n\n•  Pagination: The top of the list shows the current range (for example, \"Showing 1–25 of 171\"). Use the Per page\n  dropdown to change how many stories display at once (for example, 25, 50, or 100).",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 61,
+      "text": "•  Story List Table\n\n•  Each row in the table represents one story with the following columns:\n\n•  Checkbox: Select one or multiple stories to perform bulk actions.\n\n•  Title: The headline of the story. Click the title to open the story in Edit mode.\n\n•  View: Click the View link (external link icon) to open and see how the story appears on the live public\n   website.\n\n•  Updated: Shows when the story was last modified (for example, \"23 hr ago\" or \"6 days ago\").\n\n•  Created By: Displays the name of the user who originally created the story.\n\n•  Updated By: Displays the name of the user who last edited the story.\n\n•  Type: Indicates the story format, such as \"Add story\" (standard news), \"Video story\", \"Photo story\", or \"Web\n   story\".\n\n•  Status: Shows the current publication state. LIVE means the story is published and visible on the website.\n  DRAFT means the story is unpublished and only visible in the admin panel.\n• Row Actions\n\n•  Three-dot menu: Click the menu icon on any row to access additional options:\n   History: View the edit history and activity log for that story.\n   Preview: Open the story in the editor (edit page) to review or modify it before publishing.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 62,
+      "text": "•  Bulk Actions\n\n•  Select one or more stories using the checkboxes on the left. When items are selected, a floating action bar\n   appears at the bottom showing how many are selected (for example, \"2 selected\"). From this bar you can:\n\n•  Publish: Publish all selected draft stories at once, making them live.\n\n•  Unpublish: Unpublish all selected live stories. Unpublished stories are moved to the Drafts list and are no\n   longer visible on the public site.\n\n•  Cancel: Clear the current selection without performing any action.\n\n•  Status Indicators\n\n•  Stories marked LIVE are actively displayed on the website.\n\n•  Stories marked DRAFT are saved but not yet published. Any story you unpublish will automatically return\n   to the Drafts list.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 63,
+      "text": "D R A F T  L I S T V I S U A L V I E W\n\n\n\n\n\nS T O RY  S E A R C H R E S U L T",
+      "ocrText": "DRAFT LIST VISUAL VIEW\n\n=\n\n© Root\n\nSearch store.\n\n=\n\ns\n\noO\n\n2.\n\n© Showing 1-2 of 1m\n\nTerpage 25 v\n\nO\n\nTITLE\n\n1-2of\n\nVIEW\n\nUPDATED ¥\n\nCREATED BY\n\nUPDATED BY\n\nTYPE\n\nSTATUS\n\n0\n\n* Add story\n\na)\n\nSTORY SEARCH RESULT\n\n€ Root FI\n\n2\n\n=\n\n=\n\no 9d\n\n=p:\n\nGe)\n\n© Showing IH of 171\n\nTecpage 25 v\n\nO ome: not\n\nVIEW\n\nUPDATED ¥\n\n‘CREATED BY\n\nUPDATED BY\n\nTYPE\n\nSTATUS +\n\nOfer cag agp, camara aes? a1 Face oir affane\n\nView\n\n| days ago\n\nRefi\n\nRefit\n\nAdd story\n\nolive",
+      "source": "text+ocr"
+    },
+    {
+      "page": 64,
+      "text": "S T O RY H I S T O RY\n\n•  Access the history of any story by clicking the three-dot menu on the story list and selecting History. This\n  opens a timeline showing every major action taken on that article.\n\n•  History Modal\n\n• The modal displays the story's activity log as a chronological timeline:\n\n•  Created and published: Shows the user who originally created and published the story, along with the date\n  and time (for example, \"by Rafi Rahman, 1 days ago, 25 Oct 2026, 05:13\").\n\n•  Edited: Shows each subsequent edit, including the user who made the change, when it occurred, and a\n  summary of which fields were modified (for example, \"Changed: Excerpt, LocationAuthor, LastPublishedAt,\n  Locked, LockedById (+1 more)\").\n\n•  Each history entry includes a view detail link to see the full specifics of that change.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 65,
+      "text": "F U L L H I S T O RY P A G E\n\n•  Clicking the story title hyperlink from the modal (or navigating directly) opens the dedicated Story History page.\n  This page provides the same chronological timeline in a full-screen layout, displaying the story title, story type\n   (for example, \"News\"), story ID, and a complete log of all creation and edit events with timestamps and changed\n   field details. Use the back arrow to return to the stories list.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 66,
+      "text": "A U D I T D E T A I L  P A G E  - V I E W",
+      "ocrText": "AUDIT DETAIL PAGE\n\n-VIEW\n\nAudit Detail #576\n\non news #173\n\nRafi Rahman (#2)\n\n26 Oct 2026, 06:26:31\n\n103.117.193.10 - 599ms\n\nSe ACHE TYTN, CATA WCE aA Fos orca ATS\n\nAction Kind: update\n\nWas Published: Yes\n\nIs Now Published: Yes\n\nField Changes (6)\n\nield\n\nOld Value\n\nNew Value\n\nExcerpt\n\nExcerpt\n\nLast Published At\n\n25/10/2026 05:13:45 +00:00\n\n26/10/2026 06:26:31 +00:00\n\nLastPublishedat\n\nAuthor Location\n\nLocationAuthor\n\nLocked\n\nTrue\n\nFalse\n\nLocked\n\nLocked At\n\n26/10/2026 06:26:18 +00:00\n\nLockedat\n\nLocked By\n\nLockedByid",
+      "source": "text+ocr"
+    },
+    {
+      "page": 67,
+      "text": "A U D I T D E T A I L  P A G E\n\n•  Click view detail from any entry in the Story History timeline(bottom of every log) to open the full audit log\n   for that specific change. This page provides a complete breakdown of exactly what was modified in a single\n   edit.\n\n•  Audit Header\n\n•  Audit ID: Displays the unique audit number (for example, \"Audit Detail #576\").\n\n•  Action & Status: Shows the action type (for example, \"update\") and whether it was successful.\n\n•  Story Reference: Indicates which story was affected (for example, \"on news #173\") along with the story\n   headline.\n\n•  User & Timestamp: Displays the user who made the change (for example, \"Rafi Rahman\"), the exact date and\n   time, IP address, and how long the action took to process.\n\n•  Publication State: Badges show whether the story was published before the change (\"Was Published\") and after\n   the change (\"Is Now Published\").\n\n•  Field Changes Table\n\n• The main section lists every field that was modified in this edit. The table has three columns:\n\n•  Field: The name of the modified field (for example, Excerpt, Last Published At, Author Location, Locked,\n  Locked At, Locked By).",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 68,
+      "text": "•  Old Value: The previous value before the edit. If a field was empty or unchanged, this may be blank.\n\n• New Value: The updated value after the edit.\n\n•  In the example shown, you can see:\n\n• The Last Published At timestamp was updated from \"25/10/2026 05:13:45\" to \"26/10/2026 06:26:31\".\n\n• The Author Location was changed to \"ঢাকা\".\n\n• The Locked status changed from \"True\" to \"False\".\n\n• The Locked At and Locked By fields were cleared.\n\n•  View Modes\n\n•  At the top-right of the changes table, three tabs let you switch how the data is displayed:\n\n•  Plain Text: Shows values in simple readable text.\n\n•  Rich P review: Renders formatted or styled content where applicable.\n\n•  Raw: Displays the raw data values as stored in the system.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 69,
+      "text": "V I E W  S T O RY O N P U B L I C  S I T E\n\n•  From the All Stories list, click the View button (external link icon) next to any story to open and review how it\n   appears on the live public website. This opens the article in a new browser tab using the actual front -end URL,\n  showing exactly what readers will see.\n\n                                                                                    View button in list\n\n\n\n\n\n                                                                              Public Site After Click on View button from list",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 70,
+      "text": "F I L T E R  S T O R I E S\n\n•  Click the filter icon(after Draft button) on the All Stories page to open the filter panel. You can filter the story\n    list by multiple criteria to quickly find specific content. Select your desired filters, then click Apply Filters to\n  update the list, or Reset to clear all selections.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 71,
+      "text": "D A T E  F I L T E R\n\n•  Narrow down stories by publication or creation date. Enter a From and To date using the date picker, or use\n   the Quick Select shortcuts to instantly choose Today, Yesterday, Last 7 days, Last 30 days, or This month.\n  Click Done to confirm your date selection.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 72,
+      "text": "F I L T E R B Y  S T O RY T Y P E\n\n\n•  Filter by the format of the content. Select one or more types from the list:\n\n• Add story (standard news)\n\n•  Live story\n\n•  Photo story\n\n•  Video story\n\n• Web story\n\n•  Shorts / Reels\n\n• Summary News\n\n•  Quote story",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 73,
+      "text": "F I L T E R B Y C A T E G O RY &  S U B C A T E G O RY\n\n•  Filter stories by their assigned Category or SubCategory. Use the search box at the top of each list to quickly find a\n   category, then check the boxes to select one or more. SubCategory options can be filtered after selecting a parent\n   category.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 74,
+      "text": "F I L T E R B Y O W N E R N A M E\n\n•  Filter stories by the user who created them. Use the search box to find a specific author or editor, then\n  check the names you want to include in the filtered results.\n\n•  After making selections in any filter section, click Done to confirm that section, then click Apply Filters on\n   the main panel to refresh the story list.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 75,
+      "text": "P A G I N A T I O N C O N T RO L S\n\n•  Use the Per page dropdown to change how many stories display on a single page. Choose from 25, 50, 100, 150, 200,\n   or 300 items per page. The list will refresh automatically to show the selected number of stories.\n\n• The Showing indicator above the table updates to reflect the current view, for example \"Showing 1–100 of 171\",\n   letting you know which items you are currently viewing and the total number of stories available in the filtered list.\n\n\n\n\n\n                                                                            Top of the list",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 76,
+      "text": "N E W S  L O C K & U N L O C K\n\n• When a user opens a story in the edit page, that story becomes locked by that user. A lock icon appears next\n   to the story title in the list, indicating it is currently being worked on and is temporarily reserved to prevent\n   conflicting edits by multiple users at the same time. Hover over the lock icon to see the name of the user\n  who has locked the story.\n\n•   If another user needs to edit the same story, they can unlock it using the three -dot menu next to the story\n  row and selecting Unlock, provided they have the necessary unlock permission. Once unlocked, the story\n  becomes available for that user to open and modify",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 77,
+      "text": "E D I T N E W S  S T O RY\n\n•  Click any story title from the All Stories list to open it in edit mode. The form loads with all existing content pre-\n   filled, allowing you to modify text, replace images, update categories, or adjust SEO settings. Once finished, click\n  Update to save your changes, or Cancel to discard them.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 78,
+      "text": "",
+      "ocrText": "Fearon er rem AE a Ce, CHAT ARH GS TE BOTT TE oh TTA ase PARTS\n\natemiransa DOO ovine\n\neae BeMPRS BH @ RE 3e0 PARAS 96 CE BA AE! 80\n\nedag 4 78 Sree Lob eT\n\n2s\n\nES\n\nemf\n\nmrs Rafe os ata Ba GFE) Ma AeTTaaT ee OTe COI Dre ee eITaT sogs-ne BLAME Berea Te AE She PARE OG\n\nSema\n\nwee\n\nSSS\n\n==\n\nCabs Bea wee ares TANT BeeTF STE TF os THAR ICN) Say NT Sas Tes ATR a a\n\nora Fre\n\nce:\n\n=\n\nWerte 6 Pugh\n\nre 6\n\nsons aT\n\nBe\n\nASE:\n\ngy\n\nee\n\nRet\n\nes\n\nSr\n\n0 Except\n\nye\n\nTe show except homepage maximus 300 aractes\n\n0 characters\n\n© summary\n\n(ecient\n\n5\n\nEnable Sunmary\n\n© aerate News mage\n\n@ sutor\n\n© Feated tems\n\n( utor Location\n\n(sas\n\nOnes Tie\n\n@ tial\n\n‘Thename of the pape depayedon seach engine resus asthe cable hadine\n\n#\n\nKy\n\n[\n\n255 characters",
+      "source": "text+ocr"
+    },
+    {
+      "page": 79,
+      "text": "",
+      "ocrText": "© Author Location\n\n© Meta description\n\noe\n\nThe descriptive text displayed underneath a headline in search engine results.\n\n© Initial\n\nat\n\nxv\n\n© Alternative Title\n\n0 characters\n\n© Meta Keyword\n\n© Highlight\n\n|\n\n0/500 characters\n\n@ Alert\n\nInstruction for team (cleared when published).\n\nEE",
+      "source": "text+ocr"
+    },
+    {
+      "page": 80,
+      "text": "N E W S  S O RT I N G  /  F E A T U R E D   I T E M S\n\n\n•  This section lets you create and manage featured content sections that appear on the public website homepage or\n   category pages, such as Lead Section, Second Lead, LiveFeatured, and FeaturedVideo.\n\n•  Featured Items List\n\n• The main page displays all existing featured sections. Each row shows the section name, associated Tag ID, Category\n   ID, maximum allowed positions, and current news count (for example, \"25 / 25\"). Use the + Add Featured button to\n   create a new section, or use Edit and Delete to modify or remove existing ones.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 81,
+      "text": "A D D  /  E D I T  F E A T U R E D  S E C T I O N\n\n• When adding or editing a featured section, you can configure:\n\n•  Featured Name: The label for the section (required).\n\n•  Tag ID: Optionally restrict available news to a specific tag.\n\n•  Category ID: Optionally filter available news by category (works with OR logic if combined with a Tag ID).\n\n• Max Positions: The maximum number of stories allowed in this section (range 1–100).",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 82,
+      "text": "M A N A G E  P O S I T I O N S   ( D R A G & D RO P )\n\n\n•  Click Manage on any featured section to open the position manager. This screen has two panels:\n\n•  Featured Positions (left): Shows the stories currently assigned to this section in their display order (Position 0, 1,\n   2, etc.). This exact order determines how stories appear on the public site.\n\n•  Available News (right): Shows the pool of stories eligible for this section. Use the search bar to find specific\n  news by title.\n\n•  To populate or reorder the section, drag stories from the Available News panel into the Featured Positions\n   panel, or drag items within the featured list to reorder them. The position numbers update automatically to\n   reflect the new sequence.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 83,
+      "text": "M A N A G E  P O S I T I O N S   ( D R A G & D RO P )",
+      "ocrText": "MANAGE POSITIONS (DRAG & DROP)\n\n55901\n\ney\n\n>\n\n88\n\nManage: Lead Section\n\nic)\n\nO\n\nroo\n\n‘A. No Tag ID or Category IDis set for this featured item, Available news cannot be loaded. Please edit ths item and set a Tag ID.\n\n‘ Featured Positions\n\nB Available News\n\nSearch all news by til\n\n© certaa ites sas creat fiaitia ats, arte 38\n\no\n\nIR TIM wRTOT 8 eons, CRIA ware SAE\n\n{© No Tag 0 or Category 1D set — showing latest 50 news from all sources.\n\n°e\n\nTOT TTR MOLY HA AH 3 AE AE, TTS NS\n\nera coe TQM, CHPTATAA ATE A Fics omc BATA\n\nam\n\nnews\n\nEabca tori omc fii ara cory? Hie Renton or fear mee\n\nea cra CTR TAHA HRS\n\nom\n\nNews\n\ncabs congr concer anata oe\n\nao FpTR Bata PSs: Solos cron’ sem farm Sola aE\n\nam\n\nNews\n\nmarge FPRTEA ICG by BTCA TAM ATO\n\nar Tors rater, era HTT CHATTER eT ST\n\nam\n\n‘woco news\n\ngigorca Erevrene so corer EMT ¢ TST\n\nacaret Sm cone eae cat ire Tens few HHT\n\non\n\n‘woeo news\n\nEHRTGTTR FROME CTGTA LCR HT COG 30\n\nFar BIRTH CTT PaCS CoTeA Mico eT TT\n\nPHOTONEWS.\n\ntie ar es are HT CHC ATR CATE STATON?\n\nSTR AM RTS STHTETTON MT TATA FHS MTT\n\nPHOTO NEWS\n\ncoy scarce ora titer area OER STR\n\nfear aU RRC ET TEA TT\n\n2%\n\nPHOTO NEWS\n\npe\n\na Te arte Ses feat rare, ore Hachem oO\n\npm\n\nnews\n\nEa",
+      "source": "text+ocr"
+    },
+    {
+      "page": 84,
+      "text": "P O S I T I O N W I S E N E W S  S H O W   I N P U B L I C  S I T E",
+      "ocrText": "POSITION WISE NEWS SHOW IN PUBLIC SITE\n\nI FRCAI\n\n>\n\naercea orate ater\n\ncarercea aratcera er\n\nsteTeE Cte\n\naera et Pra era\n\ncaterers weetent\n\nadore\n\n“01\n\nwrets ~\n\nATEN\n\neda ~\n\notter ~\n\nfevta ~\n\ncoterigett\n\nwal cet\n\nASHES v\n\nara\n\nDEMO,\n\nLOGO\n\nSee Paucar\n\naoa AC YS\n\n68 eater Be Bee ATSC SSA TWewlt AT\n\nfaeces ace afeadia wifity cece Sew creats caret\n\nwifes ae\n\n‘Preacent Stare AIO\n\nif\n\n%\n\ncaelfrata\n\nI Lala\n\nPe\n\nats warha aS, |\n\neater Cretta aterta\n\nBUGS ss\n\n2)\n\n«\n\n‘aitercopa =IATCora 2TH\n\nareca cat\n\nom\n\noY\n\n—_.\n\noe\n\nwrecen yer FAH at\n\nat\n\nSCA BRIT\n\nG\n\n\\ {\n\nG\n\naf _L.\n\nFIA AAS AAT! S |GAB,\n\nere oferta Tew WPA eI\n\nfercec’ fora earce\n\nae core Wet faafea ore\n\nSp as , SIS RE\n\n@4\n\n°\n\naieetta\n\nabort\n\ne",
+      "source": "text+ocr"
+    },
+    {
+      "page": 85,
+      "text": "C O L L E C T I O N S\n\n•  Collections are grouped content sections that control how stories appear together on the website frontend. The\n   Collections List page displays all available content groups (for example, LeadSection, SecondLead, VideoSection,\n   EditorsPick) and lets you manage their structure, content source, and display order.\n\n•  Collections List\n\n• The main list shows all collection groups with the following details:\n\n•  Group Order: Numbered sequence showing the display order on the page.\n\n•  Collection Name: The identifier for the section (for example, LeadSection, EightStoriesLeftBig).\n\n•  Mode: Shows whether the collection is AUTO (automatically populated), MANUAL (curated by editors), or\n  STATIC (pulled from a custom data source).\n\n•  Source Info: Displays the assigned category, tag, or featured item feeding the collection.\n\n•  Slots: Shows how many content slots exist within the group (for example, \"3 slots\").\n\n•  Actions:\n   •+ Slot: Add a new content slot to the collection.\n   •Expand arrow: Click to expand the collection and view or manage its individual slots.\n   •Edit: Modify the collection settings.\n   •Delete: Remove the entire collection group.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 86,
+      "text": "R E O R D E R C O L L E C T I O N S\n\n\n•  Drag and drop collection groups using the handle icons to rearrange their display order. Once you have\n  arranged the sections in the desired sequence, click the Save Order button at the top right to apply the\n   changes. The saved order determines exactly how these sections appear on the public website.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 87,
+      "text": "E X P A N D  S L O T S    ( A R R O W  B U T T O N )\n\n\n   Click the arrow next to any collection to expand it and reveal its internal slots. Each slot represents a specific\n   content position or sub-section within that collection. The expanded view shows the slot number, story type\n  (Manual/Automatic/Static), and the source name. Each slot can be edited or deleted individually from this view.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 88,
+      "text": "A D D N E W  S L O T T O A C O L L E C T I O N\n\n•  Click the + Slot button on any collection row to add a new content slot. The form inherits the Template Name\n  from the parent group (for example, \"LeadSection\") and lets you choose the Slot Number (for example, \"Slot 4\").\n\n•  Select a Story Type:\n\n•  Automatic: Pulls stories automatically from a chosen source.\n\n•  Manual: Links to a featured item.\n\n•  Static: Uses a data source identifier.\n\n•  For Automatic slots, choose the News Source by Category / Subcategory or Tag. In the example, Slot 4 was added to\n   the LeadSection collection using Automatic mode with the সারা দেশ (National) category as the source. Once saved,\n   the new slot appears in the expanded collection list and feeds content into that section on the public site.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 89,
+      "text": "A D D  S L O T V I E W",
+      "ocrText": "ADD SLOT VIEW\n\n@ Adding anew slot to template group at order #1\n\n& TEMPLATE & SLOT\n\n‘Template Name *\n\nSlot Number\n\nLeadSection\n\nSlot4\n\nTemplate name is inherited from the group\n\nSetsh\n\nformu\n\nwurce templates\n\n® STORY TYPE\n\n@ Static\n\nsb Manual\n\nNEWS SOURCE\n\n@ Category / Subcategory\n\n® Tag\n\nCategory\n\nSubcategory\n\n‘SIS OT\n\n— Select Sub:\n\negory —",
+      "source": "text+ocr"
+    },
+    {
+      "page": 90,
+      "text": "S N I P P E T S  S E T U P  - A U T H O R L I S T\n\n•  Author List\n\n•  This page displays all authors in the CMS. The list shows each author's profile image, name, author type (Normal, Special,\n   or Desk), news count, public hyperlink, email, and location. Click + Add Author to create a new author profile.\n\n•  Search & Filter\n\n•  Search by title, name or email: Type keywords to quickly find a specific author.\n\n•  All types: Use the dropdown to filter authors by their type (for example, Normal, Special, or Desk).\n\n•  Search button: Executes the search based on your entered criteria.\n\n•  Recalculate: Click this button to refresh and recalculate author statistics, such as news counts.\n\n•  Author Type & Special Toggle\n\n•  Each author has an assigned type shown as a badge. To mark an author as Special, click the star icon next to the edit button\n  on the author's row. Authors marked as Special receive a gold \"SPECIAL\" badge and are typically highlighted differently\n  on the public website.\n\n•  Hyperlink\n\n•  Click the link icon in the Hyperlink column to open the author's public profile page on the live website. This page displays\n   the author's details and all news stories written by them.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 91,
+      "text": "• Row Actions\n\n•  Edit (pencil): Modify the author's profile information.\n\n•  Special toggle (star): Switch the author between Normal and Special status.\n\n•  Delete (trash): Remove the author from the system.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 92,
+      "text": "A F T E R C L I C K O N H Y P E R L I N K  F RO M A U T H O R L I S T",
+      "ocrText": "AFTER CLICK ON HYPERLINK FROM AUTHOR LIST\n\nsao ab eS aeaiios ~\n\ncater ~ feos +\n\ncae ~\n\nFist cet arate\n\naise\n\nSea See\n\n-*\n\nrt\n\nAAT CTA\n\nwe-fere\n\nWa\n\nfesta afk 6 enifta mieafracr\n\n—\n\nbai",
+      "source": "text+ocr"
+    },
+    {
+      "page": 93,
+      "text": "C R E A T E A U T H O R F O R M\nU S E T H I S  F O R M T O A D D A N E W A U T H O R  P R O F I L E T O T H E C M S .\n\n •  Basic Info\n\n •  Author Title: Enter the author's display name or title (required). This is the primary identification for the author.\n\n •  Name: Auto-populated from the Author Title using hyphens for multi-word titles. Click the Lock icon to manually\n    edit or prevent auto-updates.\n\n •  Designation: Enter the author's role or position (for example, \"বিশেষ প্রতিনিধি\").\n\n •  Email: Enter the author's email address.\n\n •  Location: Enter the author's city and country.\n\n •  Description: Write a brief biography or summary about the author.\n\n •  Author Type Toggles (Right Panel)\n\n •  Special Author: Toggle on to mark this author as featured or special.\n\n •  Desk Author: Toggle on to mark this author as a desk or editorial team member.\n\n •  Guest Author: Toggle on to mark this author as a guest or contributing writer.\n\n •  Profile Image\n\n •  Upload the author's profile photo using the Choose Image button.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 94,
+      "text": "•  Live Preview\n\n• A real-time preview panel on the right shows how the author card will appear with the current information.\n\n•  Website & Social Media\n\n•  Website: Enter the author's personal or portfolio website URL.\n\n•  Social Media: Add links to the author's Facebook, Twitter (X), LinkedIn, and YouTube profiles.\n\n• SEO & Meta\n\n•  Meta Title: Enter the SEO page title for the author's public profile page.\n\n•  Meta Description: Write a brief description for search engine results (maximum 500 characters).\n\n•  Meta Keywords: Add relevant keywords separated by commas to improve search visibility.\n\n•  Publishing\n\n•  Click Create Author to save and publish the new author profile, or Cancel to discard the form.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 95,
+      "text": "E D I T A U T H O R F O R M\n\n•  Click the edit (pencil) icon on any author row in the Author List to open the Edit Author form. This form loads\n    all existing author information pre-filled, allowing you to update profile details, change author type settings,\n   replace the profile image, modify social media links, and adjust SEO metadata.\n\n•  Basic Info\n\n•  Update the author's Author Title, Name, Designation, Email, Location, and Description. The Name field can be\n  manually edited by clicking the Edit (unlock) icon next to it.\n\n•  Author Type Toggles\n\n•  Special Author: Toggle to mark or unmark the author as featured.\n\n•  Desk Author: Toggle to set the author as a desk/editorial team member.\n\n•  Guest Author: Toggle to set the author as a guest/contributing writer.\n\n•  Profile Image\n\n•  View the current profile image and use Choose Image to upload a replacement, or click Remove to delete the\n   existing image.\n\n•  Live Preview\n\n• The right panel shows a real-time preview of how the author card appears with the updated information.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 96,
+      "text": "•  Website & Social Media\n\n•  Update the author's Website URL and social profile links for Facebook, Twitter, LinkedIn, and YouTube.\n\n• SEO & Meta\n\n•  Edit the Meta Title, Meta Description (maximum 500 characters), and Meta Keywords to optimize the author's\n   public profile page for search engines.\n\n•  Click Save Changes to apply all updates, or Cancel to discard them.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 97,
+      "text": "E D I T A U T H O R F O R M V I E W -  1",
+      "ocrText": "EDIT AUTHOR FORM VIE W-\n\n1\n\n& Basic Info\n\n‘& Special Author\n\nMark as featured author\n\nAUTHOR\n\nSTATA\n\nt ©) © Desk Author\n\nMark as desk/editorial author\n\nNAME *\n\nTeA-STSTT\n\n@ Eait\n\nNATIO\n\nON\n\n+ Guest Author\n\nMark as guest/contributing author\n\naSTHIMs\n\nEMAII\n\n® Profile image\n\nhussainamzad@onair.com.bd\n\nl\n\nDCATION\n\n®3 Choose image\n\nx Remove\n\nOE, TRATION\n\nCRIPTIO\n\nP\n\nae\n\nCS ATG SH CPA ASS A-PAAG ACT TPAC ARTS 8 CHARTS AGMA OTT STATS\n\n‘Feel SeTETCA STATES 8 HITS TST SESE TA CAA SOTA OE CRT ALY ICA,\n\nON\n\nTR CRIA RR AT ETE R099 SI RCE TS SATA AMATO FH, BoTBGRs aika\n\na\n\nay\n\nWns!",
+      "source": "text+ocr"
+    },
+    {
+      "page": 98,
+      "text": "V I E W - 2",
+      "ocrText": "VIEW-2\n\nWEBSITE\n\nIn\n\n7\n\nhttps://example.com\n\nSave Changes\n\n= Social Media\n\nCancel\n\n@ FACEBOOK\n\nhttps://facebook.com/\n\nLIVE PREVIEW\n\nQIRA SIG\n\ny TWITTER\n\nSIRA-BaM\n\nhttps://twitter.com/.\n\n6B LINKEDIN\n\nhttps://linkedin.com/.\n\n@ YOUTUBE\n\nhttps://youtube.com/..",
+      "source": "text+ocr"
+    },
+    {
+      "page": 99,
+      "text": "V I E W  - 3",
+      "ocrText": "VIEW\n\n-3\n\nQ SEO & Meta\n\nMETA TITLE\n\nSERRE\n\nMETA DESCRIPTION\n\na\n\nCS AOS SST CENA TEMS VA AS MCT WAH ALMA 8 COSTAE NGAI OS STATA\n\n—\n\nFRAT TTC S HAM BST STC COS SET CTT COPCTA HOTTA SIC COTM ATA SICA,\n\n4\n\nSR CFIA CPR ATP ROSS HIT CAS SIG BALA Te TOG CCA FA, GIOMASTRS. FAS\n\nep be er te SB tn\n\nZa\n\n4\n\nhar.\n\nrt\n\nMETA KEYWORDS\n\nNST BIGIMM, Hussain Azad",
+      "source": "text+ocr"
+    },
+    {
+      "page": 100,
+      "text": "S N I P P E T S  S E T U P - T A G S  L I S T\n\n•  This page displays all content tags used across the CMS. The list shows each tag's ID, Title, Bangla Slug, English Slug, Type,\n  and News Count (number of stories using that tag). Click + Add Tag to create a new tag.\n\n•  Use the Search field to find tags by name or slug, filter by All types, and click Recalculate to refresh tag statistics.\n\n•  Click the Hyperlink (link icon) next to any tag to view all news stories associated with that tag on the public website. Use\n   the Edit (pencil) or Delete (trash) icons on each row to manage individual tags.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 101,
+      "text": "A F T E R C L I C K O N H Y P E R L I N K  F RO M T A G S  L I S T (  মুদ্রা  বিনিময়)",
+      "ocrText": "AFTER CLICK ON HYPERLINK FROM TAGS LIST(qa@ ffiaz)\n\nFRG HA\n\nBSted Cield Welt Bates aCe ATT\n\nBees Cla\n\nBleced Jal fray ata\n\nBleed Blea eal\n\nae\n\nater 0\n\nGrey\n\nad-aitiar +\n\noutta »\n\nfeta +\n\naistort «= -ateaifes -\n\nalge\n\nceettyett »\n\nWi\n\namie fear tesa ye = rem anti\n\n‘ee Paucar\n\naati Preto\n\nyet feafersra\n\nci\n\nerp Ato ot Pea RRR TRE are 0 CHE HP\n\nDAC\n\n=\n\n© 30 fra atest",
+      "source": "text+ocr"
+    },
+    {
+      "page": 102,
+      "text": "C R E A T E T A G  F O R M\n\n•  Use this form to create a new content tag for organizing news stories.\n\n•  Basic Info\n\n•  Enter the Tag Title (required). The Bangla Slug and English Slug auto-fill from the title; click the lock icon\n   to edit them manually. Optionally add a Tag Sub Title, Related Tags, Alternative Names (comma-separated),\n  and a Canonical URL for SEO.\n\n•  Tag Type & Classification\n\n•  Select a Tag Type and assign a parent Category if needed. For location-based tags, choose Division, District,\n  and Upaz ila from the cascading dropdowns.\n\n•  Tag Image\n\n•  Upload a representative image for the tag page (JPG, PNG, WebP, AVIF; max 2 MB).\n\n•  Description\n\n•  Write a description using the rich-text editor with formatting, lists, quotes, and other styling options.\n\n• SEO & Meta\n\n•  Set the Meta Title (max 100 characters), Meta Description (max 250 characters), and Meta Keywords (max\n  500 characters) to optimize the tag page for search engines.\n\n• A Live Preview on the right shows how the tag will appear. Click Create Tag to save, or Cancel to discard.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 103,
+      "text": "C R E A T E T A G  F O R M  – V I E W  1",
+      "ocrText": "CREATE TAG FORM\n\n-VIEW 1\n\n® Basic Info\n\nPublish Tag\n\nTAGTITLE *\n\ne.g. SIA SIMFTS or Sports News\n\nCancel\n\nfi\n\ne&\n\nlug are aut:\n\nfil\n\nom thi\n\nLIVE PREVIEW\n\nBANGLA SLUG *\n\nauto\n\ns\n\n© TagTitle\n\nSRA STTTS\n\nENGLISH\n\nSLUG\n\n.\n\na\n\nauto-generated\n\n@ Lock\n\n2\n\nTAG SUBTITLE\n\n2.9. FOUTS, IFT\n\nRELATED TAGS\n\noptional\n\nSearch tags torelate.\n\nPick othe\n\nagsr\n\nated to thi\n\none\n\nALTERNATIVE NAMES\n\noptional\n\ne.g. Dhaka, Dacca, DIST\"\n\nve\n\nesr\n\nComma-sepat\n\nlings\n\nCANONICAL URL\n\noptional\n\nhttps://example.com/tags/dhaka\n\nPref\n\nSUR\n\nfor\n\nc\n\nth\n\n3\n\nconten",
+      "source": "text+ocr"
+    },
+    {
+      "page": 104,
+      "text": "V I E W -  2",
+      "ocrText": "VIEW-\n\n2\n\nTAG TYPE optional)\n\n(No type selected —\n\n[Categorize this tag under a type (optional)\n\nCATEGORY (ees)\n\n__ =Selecteategory—\n\n‘Same category list used on the news forms. Its slugis stored with the tag.\n\n| @ | Location\n\nDIVISION [episnal)\n\nDISTRICT\n\n‘UPAZILA\n\n— Select upazila—\n\n_—\n\n( Select district —\n\n4)\n\n4)\n\n‘Optional. Pick division to load its districts, then a district toload its upazilas.\n\n(a tagimage\n\nClick to select or drag & drop\n\nJPG, PNG, WebP.AVIF-max2 M8\n\nSea",
+      "source": "text+ocr"
+    },
+    {
+      "page": 105,
+      "text": "V I E W  - 3",
+      "ocrText": "VIEW\n\n-3\n\nDESCR:\n\ns\n\nON\n\nv\n\n8\n\n'\n\n=hustity\n\nCenter\n\nABigfact\n\n“Quote\n\n<f\n\nList\n\noUt\n\n—HR\n\nCancel\n\nUve PREVIEW\n\n© Tag Title\n\n“\n\nQ SEO& Meta\n\nMETATME\n\nTitle for search engines\n\nMETA DES\n\nRIPTION\n\nBrief description (max 250)\n\n0728\n\nMi\n\nAKEYWORDS\n\nwordl, word2, word3",
+      "source": "text+ocr"
+    },
+    {
+      "page": 106,
+      "text": "M E D I A  L I B R A RY  - I M A G E\n\n• The Media Library stores and manages all images uploaded to the CMS. The top summary bar displays the total\n  number of images, total pages, and how many items are currently visible.\n\n•  Search & Pagination\n\n•  Use the Search field to find images by title or caption. The per page dropdown controls how many images\n   display at once. Toggle between Grid view and List view using the icons next to the dropdown to switch\n  between a visual thumbnail grid and a detailed list layout.\n\n•  Upload\n\n•  Click the Upload Images button to add new images to the library.\n\n•  Grid View\n\n•  In grid view, images appear as thumbnails. Click any image to open the View modal, which shows the full image\n  along with details including title, caption, dimensions, file size, file path, and upload date. From the modal, you\n  can Edit Image to modify its details, Delete to remove it, or Close to return to the library.\n\n•  List View\n\n•  In list view, images display as rows with columns for the thumbnail, title, caption, dimensions, file size, and\n  upload date. Each row has quick action buttons for View (eye icon), Edit (pencil icon), and Delete (trash icon).",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 107,
+      "text": "V I S U A L V I E W",
+      "ocrText": "VISUAL VIEW\n\n88\n\nMedia Library\n\nwebsite\n\n© ss856\n\nny\n\noO\n\n&\n\n2\n\nNewsLab\n\na\n\nOMS News\n\noa\n\nmag\n\n(© Media Library\n\n© allstories\n\nNews Sorting\n\n968\n\n*\n\n:\n\nsnippets Setup\n\nAuthor List\n\nTags\n\na\n\n= Images\n\nCategory\n\nas\n\n~o\n\n—=\n\nSubCategory\n\nmanta\n\n*\n\na\n\nPoll\n\nABHD\"ICK SHAR\n\nwait\n\nMenu Manage\n\n=\n\nea)\n\nGold Price\n\n\\\n\nPoint Table\n\ntlm C\n\nC®\n\nTrivia\n\nos\n\nToday's Match\n\nvy\n\nCurrency Rate\n\nBe\n\nQD ene\n\nba\n\nCategory Disclaimer\n\n=f\n\nyh |e",
+      "source": "text+ocr"
+    },
+    {
+      "page": 108,
+      "text": "V I S U A L V I E W - V I E W M O D A L",
+      "ocrText": "VISUAL VIEW- VIEW MODAL\n\nr\n\nHVn1MUhaoAAPHYm\n\nHVnlMUhaoAAPHYm\n\noF\n\n1200 x 900px\n\nal_images/HVnIMUhaoAAP\n\nSs\n\njpeg\n\noo\n\n=\n\n- Es",
+      "source": "text+ocr"
+    },
+    {
+      "page": 109,
+      "text": "L I S T V I E W",
+      "ocrText": "LIST VIEW\n\nSearch by title or caption.\n\n20perpage Vo B\n\nOishi\n\n1024x572\n\n14.7 KB\n\n29042026\n\n4\n\nems eee so TER CRT hw ee\n\n‘wn ren afeadh Fre oe\n\nvee\n\nRe\n\n1920%1080\n\n1805 KB\n\n29042026\n\nG\n\nonefies 6 sefine afer a rears\n\n19201080\n\n3203 KB\n\n290\n\nG\n\nerate entre ofea cee\n\nwee\n\n9201080\n\n1186 KB\n\n2\n\n2026\n\nG\n\nitor efeat\n\nLE COR STF\n\na\n\n19201080\n\n2322 KB\n\n290242026\n\nGg\n\nfone\n\na\n\nnapa\n\n7m\n\n77",
+      "source": "text+ocr"
+    },
+    {
+      "page": 110,
+      "text": "S E A R C H  P H O T O R E S U L T",
+      "ocrText": "SEARCH PHOTO RESULT\n\nTOTAL IMAGES\n\n1\n\nPAGES\n\n1\n\nSHOWING\n\n1\n\nQ\n\nOishi\n\n20per page ¥ =\n\nShowing 1-1 of 1 images",
+      "source": "text+ocr"
+    },
+    {
+      "page": 111,
+      "text": "U P L O A D A N D  E D I T   I M A G E\n\n•  Upload Images\n\n•  Drag and drop images into the upload area or click Or choose from your computer to select files. Supported\n  formats are WEBP, JPG, AVIF, GIF, JPEG, and PNG, with a maximum file size of 10.0 MB per image. After\n   selecting, a preview appears for each image where you can add a Title (required), Caption, Description, and\n   Attribute. Click Upload All to save all selected images to the library, or Cancel to discard.\n\n•  Edit Image\n\n•  Click the Edit button on any image to open the full edit view. The left panel shows the original image preview,\n  dimensions, file size, CDN URL (with a Copy button), and a 16:9 card preview. The right panel lets you update\n   the Title, Caption, Attribute, and Description, and displays the file path. Click Save Changes to apply updates. In\n   the Danger Zone at the bottom, you can permanently Delete Image, which removes the file from both the\n   database and cloud storage.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 112,
+      "text": "V I S U A L V I E W O F U P L O A D   I M A G E",
+      "ocrText": "VISUAL VIEW OF UPLOAD IMAGE\n\n&\n\nDrag and drop images into this area to upload immediately.\n\nCaption\n\n5\n\n==\n\na\n\nBrief description of the image\n\nDescription\n\nDetailed description\n\n4\n\npo\n\nTitle*\n\nimages\n\n——-\n\n——=\n\nAttribute\n\nStart typing to reuse an existing attribute\n\n* Cancel",
+      "source": "text+ocr"
+    },
+    {
+      "page": 113,
+      "text": "V I S U A L V I E W O F  E D I T   I M A G E",
+      "ocrText": "VISUAL VIEW OF EDIT IMAGE\n\n(CORE DETAILS\n\n=\n\nm+\n\ne®?\n\na @\n\n®@e %e\n\notc\n\nN\n\n10x.\n\nfon cars eT S038) ER a BP\n\nWi\n\noie\n\n—~=\n\nhe\n\nPhoto by\n\n028.72\n\n147 KB\n\nAd\n\nspt\n\nssscte. ne\n\nony\n\nFILE INFORMATION\n\n2 28% «\n\na.\n\noe\n\nse\n\nDich\n\n‘4. DANGER ZONE\n\nDette image",
+      "source": "text+ocr"
+    },
+    {
+      "page": 114,
+      "text": "C A T E G O R I E S\n\n•  This page lists all content categories in the CMS. The table displays each category's Name, Slug, and Meta Title status.\n  Use the Search field to find categories by name or slug. Click + Add Category to create a new category, or use the\n   Edit (pencil) and Delete (trash) icons on each row to manage existing ones.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 115,
+      "text": "C R E A T E C A T E G O RY\n\nUse this form to add a new category.\n•Name: Enter the category name (required).\n•Slug: The URL-friendly identifier, auto-generated from the name. Click the Lock icon to edit it manually.\n•Watermark Image: Upload a watermark image for this category. Must be exactly 1200 x 100 px, JPG/JPEG only,\nmaximum 2 MB.\nA Live Preview on the right shows how the category label will appear.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 116,
+      "text": "• SEO & Meta\n\n•  Optimize the category page for search engines:\n\n•  Meta Title: The page title shown in browser tabs and search results.\n\n•  Meta Description: A brief description for search engine results.\n\n•  Meta Keywords: Relevant keywords separated by commas.\n\n•  Click Create Category to save, or Cancel to discard.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 117,
+      "text": "E D I T C A T E G O RY\n\n• Click the edit (pencil) icon on any category row to open the Edit Category form. Update the\n  Name, Slug, and Watermark Image (JPG/JPEG, exactly 1200 x 100 px, max 2 MB). The slug\n  can be manually edited by clicking the Edit button, and the system confirms availability. The\n  Live Preview on the right shows the updated category label.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 118,
+      "text": "•  In the SEO & Meta section, update the Meta Title, Meta Description, and Meta Keywords to optimize the\n   category page for search engines.\n\n•  Click Save Changes to apply updates, or Cancel to discard them.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 119,
+      "text": "S U B - C A T E G O R I E S\n\n• The Subcategories page lists all subcategories under their parent categories. The table shows each subcategory's\n  Name, Parent Category, Slug, and Meta Title status. Use the Search field to find subcategories by name or slug, and\n   filter by parent category using the All Categories dropdown. Click + Add Subcategory to create a new one.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 120,
+      "text": "C R E A T E  S U B C A T E G O RY\n\n•  In the creation form, select a Parent Category (required), then enter the subcategory Name and Slug. The slug\n   auto-generates from the name; click the Lock icon to edit it manually. The Live Preview panel shows how the\n  subcategory label will appear.\n\n•  In the SEO & Meta section, add a Meta Title, Meta Description, and Meta Keywords to optimize the\n  subcategory page for search engines. Click Create Subcategory to save, or Cancel to discard.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 121,
+      "text": "E D I T  S U B C A T E G O RY\n\n•  Click the edit option on any subcategory row to open the edit form with all fields pre -filled. Update the Parent\n   Category, Name, or Slug as needed. The slug can be manually edited and the system will confirm availability.\n  Adjust the SEO & Meta fields if required. The Live Preview updates in real time. Click Save Changes to apply\n   updates, or Cancel to discard them.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 122,
+      "text": "M E N U M A N A G E M E N T\n\n•  This section controls the navigation menus displayed on the public website.\n\n• Menu List\n\n• The main page lists all navigation menus (for example, \"Menu\" and \"Footer Menu 2\"). Each menu shows its item\n  count and action buttons to Manage, Edit, or Delete. Click + New Menu to create a new menu group by entering\n   a Title and Slug.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 123,
+      "text": "M A N A G E M E N U\n\n•  Click Manage to open the menu builder. This page displays all top-level menu items in a vertical list. Drag\n   items using the handle icons to reorder them. Each item shows its sequence number, display name, URL path,\n  and available sub-items count.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 124,
+      "text": "M E N U  I T E M A C T I O N S\n\n\n• + Sub: Add a dropdown or submenu item under that menu.\n\n•  Edit: Modify the menu item details.\n\n•  Delete: Remove the item from the menu.\n\n•  Expand arrow: Click to view and manage existing sub-items under that menu.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 125,
+      "text": "A D D M E N U  I T E M\n\n\n\n• Click + Add Item to create a top-level menu\n  entry. The form includes:\n• Header Title: Custom display name for the\n  menu (overrides the category name if set).\n• Header URL: Custom URL path (for example,\n  /latest, /shorts).\n• Link Title / Link URL: Additional link text\n  and destination if needed.\n•  Category: Optionally link directly to an\n  existing category.\n• Open in new tab: Check to open the link in a\n  new browser tab.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 126,
+      "text": "S U B M E N U  I T E M S\n\n• When a menu item has sub-items, expanding it shows a nested list. In the example, the জাতীয় (National) menu contains\n   three sub-items: কূটনীতি (Diplomacy), সংসদ (Parliament), and সরকার (Government).\n\n• Add Sub Item\n\n•  Click + Sub on any menu item to add a dropdown entry. Choose the Type:\n\n•  Subcategory: Select an existing subcategory from the dropdown to link automatically.\n\n•  Custom Link: Manually enter a Title and URL (for example, /tag/custom).\n\n•  Check Open in new tab if needed, then click Save to add the sub-item.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 127,
+      "text": "G O L D  P R I C E M A N A G E M E N T\n\n•  This page allows administrators to manage and update daily precious metal prices displayed on the website. It is\n   divided into two sections: Gold & Silver Price (স  োনার দাম) and Copper Price (কপার দাম).\n\n•  Gold & Silver Price\n\n• The first table manages gold and silver rates by karat. Each row represents a different purity level (for example, 22\n   karat, 21 karat, 18 karat, and traditional/sanaton gold). The columns include:\n\n•  Karat: The gold purity classification.\n\n•  Price per gram (৳): The base price per gram in BDT.\n\n•  Price per bhari (৳): The price per bhari (a traditional South Asian unit), automatically calculated using the formula\n  shown in the header (gram × 11.664).\n\n•  Price per ana (৳): The price per ana, calculated as (gram × 0.729).\n\n•  Price per rati (৳): The price per rati, calculated as (gram × 0.1215).\n\n•  Last updated: Shows the user who last modified the row and the timestamp.\n\n•  Copper Price\n\n• The second table follows a similar structure for copper rates across different categories or purity levels. Each row\n   has editable fields for the gram price and the calculated derivative prices.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 128,
+      "text": "• How to Update\n\n•  Click into any price input field to edit the value. The system uses the gram price as the base and automatically\n   calculates the other columns based on the displayed formulas. After making changes, scroll to the bottom and click\n  Update to save the new prices. Click Cancel to discard changes. A notice at the top confirms that saving will update\n   today's prices, and the Last updated timestamp refreshes accordingly.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 129,
+      "text": "",
+      "ocrText": "PAs WT\n\naife wf (6)\n\nsife BAT (6)\n\naife af (6)\n\nKarat\n\nsafe ara (6) *\n\n11.654\n\n«0.729\n\na 0.1215\n\nLast updated\n\na rae\n\nMD, MUSTAFIZUR RAHMAN.\n\n{ 330\n\n} [se\n\n| | 2m\n\n{ 40\n\n29 Oct 2026, 10:46 AM\n\nMD, MUSTAFIZUR RAHMAN.\n\n2) SIRS\n\n( 315\n\n| | 230\n\n( 38\n\n] { aera\n\n29 Oct 2026, 10:46 AM\n\nyb aa\n\nMD, MUSTAFIZUR RAHMAN.\n\n(=\n\n| (a\n\nac\n\n| [s\n\n29 Oct 2026, 10:46 AM\n\nMD. MUSTAFIZUR RAHMAN.\n\nSTE ETS\n\n| | 149\n\n{ 208\n\n| [zm\n\nic\n\n29 Oct 2026, 10:46 AM\n\n‘D Cancel\n\nUpdat",
+      "source": "text+ocr"
+    },
+    {
+      "page": 130,
+      "text": "P O I N T T A B L E\n\n•  This section manages sports tournament standings and point tables displayed on the website.\n\n•  Tournament List\n\n• The main page lists all created tournaments. Each row shows the tournament name, number of teams, activation\n   status, last updated timestamp, and an edit button. Use the search bar to find tournaments by name. Click + Add\n  Tournament to create a new point table.\n\n•  Toggle the Status switch to Active to display the tournament on the website, or set it to Inactive to hide it.\n\n• Add Point Table / Create Tournament\n\n•  Click + Add Tournament to set up a new tournament standings table.\n\n•  Tournament Name: Enter the tournament title (required), for example \"Asia Cup 2026\".\n\n•  Active: Toggle on to make the point table visible on the public website.\n\n•  Teams Section\n\n• Add teams to the point table using the inline form:\n\n•  Team: Enter the team name (required).\n\n•  Play: Number of matches played.\n\n•  Won: Matches won.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 131,
+      "text": "•  Loss: Matches lost.\n\n•  Draw: Drawn matches.\n\n• No Result: Matches with no result.\n\n•  Net Run Rate: The team's net run rate.\n\n•  Point: Total points earned.\n\n•  Click + Add more to add additional team rows. Use the arrow buttons to reorder teams, or the delete button\n   to remove a row.\n\n•  Important Notes\n\n•  You can type in Bangla or English. All values are saved exactly as entered.\n\n•  Only the Team Name is required. Completely empty rows are ignored.\n\n• The website displays teams in the exact order you set in this form.\n\n•  Click Save to publish the point table, or Cancel to discard changes.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 132,
+      "text": "T O U R N A M E N T  L I S T",
+      "ocrText": "TOURNAMENT LIST\n\na OMS News\n\n>\n\nPoint Table\n\n®\n\n9toumamentstoa\n\nB allstories\n\nsearch\n\n& 9touraments\n\nNews Sorting\n\nTOURNAMENT\n\nTeams\n\nstatus\n\nLust UPDATED\n\nSnippets Setup\n\n‘AutoPT a3104d\n\nra\n\nInactive\n\nRafiRahman\n\n‘Author List\n\n\"\n\nTags\n\n‘AutoPT bécc04\n\nw2\n\nInactive\n\nRafiRahman\n\nImages\n\nafiRahman\n\nCategory\n\n‘AutoPT 366857\n\na\n\nInactive\n\nSubCategory\n\nafiRahman\n\nPoll\n\n‘AutoPT 620826\n\n\"1\n\nInactive\n\nMenu Manage\n\nRefiRahman\n\n‘AutoPT effc97 Edited\n\n\"\n\nInactive\n\nGold Price\n\n2\n\nPoint Table\n\n‘AutoPT e¢0560 Final\n\nas\n\nInactive\n\nRefiRahman\n\nTrivia\n\nBeare onftae fa (\n\n#\n\nInactive\n\nOnairAdmin\n\nToday's Match\n\n2\n\nCurrency Rate\n\nes\n\nRafiRahman\n\nBere often\n\nO “ire\n\nCategory Disclaimer\n\nOnairkdmin\n\n® collections\n\nours raat ore cATTSH 2038\n\na?\n\nInactive",
+      "source": "text+ocr"
+    },
+    {
+      "page": 133,
+      "text": "C R E A T E T O U R N A M E N T",
+      "ocrText": "CREATE TOURNAMENT\n\n83\n\nAdd Point Table\n\n€\n\n@ NewTournament\n\n® Tournament\n\nTOURNAMENT NAME *\n\n©} X10e-- shown onthe website\n\niS\n\n=\n\nTeams\n\n#\n\nTEAM*\n\nPLAY\n\nWoN\n\nLoss\n\nDRAW\n\nNO RESULT\n\nNET RUN RATE\n\nPOINT\n\n+ Add more\n\nc\n\nF\n\nrd",
+      "source": "text+ocr"
+    },
+    {
+      "page": 134,
+      "text": "E D I T T O U R N A M E N T\n\n•  Click the edit icon on any tournament to open the Edit Tournament form. The page loads the existing\n  tournament name and all team data pre-filled. Update the Tournament Name if needed, toggle Active to show or\n   hide it on the website, and modify team statistics directly in the table. Use the arrows to reorder teams, the red X\n   to remove a row, or + Add more to insert new teams. Only the Team Name is required; empty rows are ignored.\n  Click Update to save changes, or Cancel to discard them.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 135,
+      "text": "T R I V I A\n•  Manage bite-sized fact boxes or sidebar snippets displayed across the website. The list shows all trivia items with\n   their heading, detail preview, active/inactive status, creator, and last updater. Toggle the Status switch to show or\n   hide an item on the site.\n\n•  Click + Add Trivia to create a new item. Enter a Heading and Details (maximum 2,000 characters). Content can\n  be typed in Bangla or English and is saved exactly as entered, including line breaks. Toggle Active to make it visible\n   immediately, then click Save.\n\n•  Click the Edit icon on any row to modify the heading, details, or active status. The edit form shows the original\n   creator and creation date. Click Update to apply changes or Cancel to discard them.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 136,
+      "text": "A D D A N D E D I T T R I V I A",
+      "ocrText": "ADD AND EDIT TRIVIA\n\n—\n\n38\n\nAdd Trivia\n\n8\n\nEdit\n\nivia\n\n«\n\n@ Edit Trivia\n\n«\n\nq\n\n9\n\nNew Trivia\n\n@ Trivia\n\n@ Trivia\n\nHEADING *\n\nHEADING *\n\npee\n\nDETAILS *\n\nDETAILS *\n\nRona ctaareces ora\n\n4\n\n.\n\na\n\nEs\n\n© Ketie-snownontne website\n\n© M*ie-shownontheweoste\n\nCreated by OnAirAdmin 08 Oct 2026, 04:20PM",
+      "source": "text+ocr"
+    },
+    {
+      "page": 137,
+      "text": "T O D A Y ' S M A T C H\n\n•  Manage upcoming sports match schedules displayed on the website. The list page shows all matches with their\n  Match Time, Teams/Game, Channel, Status (Active/Inactive), creator, and last updater. Use the date picker to\n   filter by specific dates, or the search bar to find matches by game or channel name. Toggle the Status switch to\n  show or hide a match on the site.\n\n• Add Match\n\n•  Click + Add Match to schedule a new match. Fill in:\n\n•  Match Time: Select the date and time in Bangladesh time (required).\n\n• Whose Game Is It?: Enter the competing teams or event name (required).\n\n• Which Channel Is It On?: Enter the broadcasting TV channel or platform (required).\n\n•  Toggle Active to make it visible immediately. Click Save to add the match, Save & add another to quickly add\n  more matches, or Cancel to discard.\n\n•  Edit Match\n\n•  Click the Edit icon on any match row to update its details. The form opens with all fields pre-filled, showing\n   the original creator and last updater with timestamps. Modify the match time, teams, or channel as needed,\n   adjust the active status, then click Update to save changes or Cancel to discard them.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 138,
+      "text": "T O D A Y ' S M A T C H  L I S T V I E W",
+      "ocrText": "TODAY'S MATCH LIST VIEW\n\n=\n\nToday'sMatch\n\nBématches total\n\n2\n\n-\n\n@ mm/dd/yy\n\ni)\n\nhgameor channel.\n\nQ Search\n\n(2 36matches\n\n#\n\nMATCH TIME\n\nWHOSE GAME\n\nCHANNEL\n\nstatus\n\nCREATED\n\nUPDATED\n\n10:30PM\n\n0\n\n2\n\nroraqa-onofarer\n\nBrome\n\n© “ire\n\nOnan\n\nMostakimHossain\n\nPw\n\n,\n\nwraw-ABierenTs, ow B-corealS\n\nsentry\n\n© “ive\n\n‘OnAirAdmin\n\n6,1\n\nMostakim Hossain\n\nPN\n\ncoon\n\n02:30PM\n\nHABE COB ow Fie, nf ene - eres ere\n\nBrera\n\nRahRahman\n\nMostakim Hossain\n\n>\n\n© “ive\n\n09:30AM\n\nmeron - 9 BST, 351 B98, aw fr\n\nBom\n\n‘On Air Admin\n\nMostakim Hossain\n\n© “ire\n\n0:\n\nu\n\n2\n\n9\n\n.\n\nMostakim Hossain\n\n09:30AM\n\nordta feces fist\n\nPRRRERET\n\n© “ive\n\n\"\n\n1\n\nMostakimHossain\n\nf\n\nM",
+      "source": "text+ocr"
+    },
+    {
+      "page": 139,
+      "text": "A D D / E D I T M A T C H",
+      "ocrText": "ADD/EDIT MATCH\n\n88\n\nAdd Today's Match\n\nGr\n\n€\n\n© EditMatch\n\n«\n\n_ NewMatch\n\nS Match\n\nMatch\n\nMATCHTIME *\n\n29 Oct 2026, 02:30 PM\n\nMATCHTIME #\n\n9)\n\n,\n\n°\n\nitn\n\n29 0c 2026:\n\nWHOSE GAMEISIT? +\n\nbo\n\nim\n\nceotbren cO9S on Re, fiber eer erg\n\nWHOSE GAMEIS IT? «\n\nWHICH CHANNEL IS ITON? *\n\nWHICH CHANNELIS TON? *\n\nin\n\ngla orEnglich saved exactly\n\nTypeinBangl\n\nre\n\njit\n\nm\n\nty.\n\n© Axv0- shounonthe website\n\n© 1180 -srown one website\n\n(Created by RafRahman 11 Oct 2026, 0123 PM\n\nLast updated by Mostakim Hossain 29 Oct 2026,0510PM\n\nCancel\n\n———",
+      "source": "text+ocr"
+    },
+    {
+      "page": 140,
+      "text": "N E W S V I E W R E P O RT\n\n•  This analytics page provides a detailed report of published news stories and their view counts. The top summary\n  badges show the total number of stories in the current report, total views, and how many stories have not yet\n  been synced with the analytics system.\n\n•  Filters & Search\n\n•  Use the filter panel to narrow down the report results:\n\n•  Published From / Published To: Select a date range to filter stories by their publication date in Bangladesh time.\n\n•  Headline: Search for stories containing specific words in the headline.\n\n•  Author: Filter by stories containing a specific author name.\n\n•  News Slug: Search using the story's URL slug or ID.\n\n•  Category: Filter by the assigned story category.\n\n•  Story Type: Filter by content type (for example, News, Video story, Photo story).\n\n•  Owner: Filter by the story owner or modifier.\n\n•  Rows: Choose how many results to display per page (for example, 25 or 50).\n\n•  Click Apply to execute the filtered search, or Reset to clear all filters and return to the full list.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 141,
+      "text": "•  Report Table\n\n• The results table displays each story with the following columns:\n\n•  Headline: The story title, with the story slug and ID shown underneath.\n\n•  Type: The format of the content (for example, News).\n\n•  Category: The assigned category and subcategory.\n\n•  Author: The story's author.\n\n•  Owner / Modifier: The user who owns or last modified the story.\n\n•  Published: The exact publication date and time.\n\n•  Views: The total number of views the story has received.\n\n•  Synced: The synchronization status with the analytics system (for example, \"pending\").\n\n•  Export\n\n•  Click the Excel or CSV buttons at the top right to download the current report results in your preferred format.\n\n•  Filtered Results\n\n•  After applying filters, the summary badges and table update to show only the matching stories. In the example,\n   filtering by date range, headline keyword, news slug, category (showbiz), story type (News), and owner (Md.\n   Rabiullah) narrows the result down to a single matching story.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 142,
+      "text": "N E W S V I E W R E P O RT  L I S T",
+      "ocrText": "NEWS VIEW REPORT LIST\n\n=\n\n© 55955\n\nry\n\n2\n\n88\n\nNews View Report\n\n&\n\nOo\n\n&\n\nNewsLab\n\nCMS News\n\n>\n\nNews View Report C= C= Ga\n\nAll Stories\n\nNews Sorting\n\nPublished From\n\nPublished To\n\nHeadline\n\nAutor\n\n[ mmvsayyny\n\n| [ mmvaaryyyy\n\n0] [contains\n\nContains.\n\nSnippets Setup\n\nNews Slug\n\ncategory\n\nStory Type\n\nowner\n\nsort ay\n\nCollections\n\n9 oakjox2maqt Alleategres\n\nv\n\nalltypes\n\nv\n\nAllowners\n\nv\n\nPublished (newest)\n\nv\n\nows\n\nAnalytics News\n\n50\n\nReset\n\n.\n\n= News View Report\n\nDates rier onthe story’ published time, in Bangladesh time. Headline, author and slug are \"contains\" matches.\n\n~ News User Report\n\nHeadline\n\nCategory\n\nAuthor\n\n‘Owner / Moitier\n\nPublished\n\nViews\n\n‘synced\n\nB History Log Reports »\n\nGoM Cre TCG ESHA FACET\n\nshowbiz\n\n‘2Nov 2026\n\nB Audit Reports\n\n>\n\nysgpite\n\nia 559\n\ners\n\nconte oe\n\nMd, Rabillah\n\nsenna\n\ners reste\n\nmusioatage\n\n1045\n\nwaguaa 19 taoce coms sree aire\n\national\n\nc2Nov 2026\n\nnicer\n\nia 588\n\news\n\ngovernment\n\n‘Amead Hussain\n\n1042\n\ntig\n\nwee eqemens, arog, merESTRN TET\n\n2 Nov 2026\n\ngray efShie crore phircy zo\n\n‘Chanchal Ghosh\n\n1037\n\nnteoteae\n\niassr\n\nbangladesh\n\nrents\n\ner\n\nhuina-division\n\n(# bmzad Hussain\n\nupd. 02 Nov\n\n1046\n\nSirors waft eas aT SS: TE\n\n14556\n\nes\n\nfeature\n\nfrom ose\n\nMd, Rabillah\n\nc2ov 2026\n\nonsacnstbs\n\ntechnology\n\nton\n\npeting\n\ne2y8 ot",
+      "source": "text+ocr"
+    },
+    {
+      "page": 143,
+      "text": "S E A R C H R E S U L T",
+      "ocrText": "SEARCH RESULT\n\nry\n\n55931\n\no\n\nOo\n\n&\n\n2\n\nEGamNews View Report\n\nNewsLab\n\nMs News\n\nNews View Report (= C= Ga)\n\nzs\n\nAll stories\n\nPublishes From\n\nPublished To\n\nHeadline\n\n‘Author\n\nNews Sorting\n\n>\n\n11/01/2026\n\n8] nvzranes\n\nEN cstachactrscachiconal\n\n[entecos\n\n‘snippets Setup\n\ncategory\n\nStory ype\n\nowner\n\nsort ay\n\nNews sug\n\n*\n\nCollections\n\n‘oaysutqaakoz\n\nshowbiz\n\nv\n\nNews\n\nMA Rabiilah\n\nv\n\nPublished (newest)\n\nows\n\nAnalytics News\n\n8\n\n==)\n\n= News View Report\n\nDates titer on the story's published time in Bangladesh time, Headline, author and slug are \"contains\" matches,\n\n~ News User Report\n\nB History Log Reports\n\n.\n\nHeadline\n\n‘category\n\n‘Author\n\nOwner / Modifier\n\nPublished\n\nviews\n\nGo Gre omg ESAT aRCETAT\n\nB Audit Reports\n\non\n\nhee\n\niass9\n\neet\n\nshowbiz\n\nontta os\n\n‘Ma, Rabiullah\n\n(02 Nov 2026 10.48\n\na\n\nimusicatage\n\nerm",
+      "source": "text+ocr"
+    },
+    {
+      "page": 144,
+      "text": "N E W S U S E R R E P O RT\n\n•  This analytics page tracks and compares content creation and modification activity across all CMS users over a\n   selected time period.\n\n•  Quick Date Filters\n\n•  At the top, one-click buttons let you instantly switch between preset reporting periods:\n\n•  Today: Shows only today's activity.\n\n•  Last 7 days: Shows the previous week of data.\n\n•  Last 30 days: Shows the last 30 days of activity.\n\n•  Last month: Shows the previous calendar month.\n\n•  Last 3 months: Shows the last quarter of data.\n\n•  Clicking any of these automatically updates the date range fields and refreshes the report.\n\n• Summary Badges\n\n•  Below the quick filters, colored badges display key metrics for the selected period:\n\n•  Date range: The current reporting period (for example, \"02 Nov 2026\" or \"04 Oct 2026 – 02 Nov 2026\").\n\n•  Users: Total number of active users in the selected range.\n\n•  Created: Total stories created across all users.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 145,
+      "text": "•  Modified: Total stories modified across all users.\n\n•  Views: Total views accumulated in the period.\n\n•  Filter Panel\n\n•  For more precise reporting, use the filter fields:\n\n•  Report By: Select the grouping dimension (for example, \"User\").\n\n•  From / To: Pick a custom date range using the date pickers.\n\n•  User Name: Search for a specific user by typing their name.\n\n•  Sort By: Choose how to order results (for example, \"Created (most)\" to rank by highest contributors first).\n\n•  Rows: Set how many users to display per page (for example, 25 or 50).\n\n•  Click Apply to generate the filtered report, or Reset to clear custom filters.\n\n•  Report Table\n\n•  The results table ranks users by their activity and performance:\n\n•  User: The user's name and ID. Click the name to view detailed user activity.\n\n•  Created: Number of stories the user created in the selected period.\n\n•  Modified: Number of stories the user edited or updated. Some cells show \"(X others)\" indicating additional\n   modifications on stories originally created by other users.\n\n•  Total Views: Combined page views for all stories by that user.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 146,
+      "text": "•  Avg / Story: Average views per story for that user.\n\n•  Pending Sync: Number of stories awaiting analytics synchronization.\n\n• A Total row at the bottom sums up all columns across every user in the selected range.\n\n•  Export\n\n•  Click the Excel or CSV buttons at the top right to download the current report data in your preferred spreadsheet\n   format.\n\n•  Usage Example\n\n•  In the screenshots, selecting Today shows 4 users with 12 created and 12 modified stories. Switching to Last 7 days\n  expands to 8 users with 207 created and 213 modified stories. Selecting Last 30 days shows 10 users with 556\n   created and 556 modified stories. Choosing Last month (October 2026) displays 10 users with 500 created and 499\n  modified stories. Finally, Last 3 months shows the broadest range with 10 users, 556 created, and 556 modified\n   stories.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 147,
+      "text": "T O D A Y ' S  L I S T",
+      "ocrText": "TODAY'S LIST\n\n2\n\n88\n\nNews User Report\n\nGwe\n\n© 55033\n\n@\n\noO\n\n&\n\n2\n\nNewsLab\n\nMs News\n\nNews User Report ==) C= c=) CS\n\nLoc\n\nAll stories\n\nua\n\nT days\n\ncr\n\naaa J\n\nNews Sorting\n\n‘snippets Setup\n\nReport By\n\nFrom\n\nte\n\nUser Name\n\nsort By\n\nUser\n\n» [texas\n\n3 (rare\n\n8) (couos\n\nCreated (most)\n\ncollections\n\nRows\n\nAnalytics News\n\n50\n\n=\n\nNews View Report\n\nUser\n\nCreated\n\nModified\n\nTotal Views\n\nNews User Report\n\n‘vg Story\n\nPending Syne\n\nCchanchal Ghosh\n\n°\n\n8\n\nHistory Log Reports\n\nans\n\n8\n\nAudit Reports\n\n(MD, MUSTAFIZUR RAHMAN\n\nano\n\nMd Rabi\n\nans\n\nAmzad Hussain\n\n4\n\nae\n\nothe)\n\n“otal (all users in range)\n\n2\n\n2",
+      "source": "text+ocr"
+    },
+    {
+      "page": 148,
+      "text": "L A S T  7 D A Y S",
+      "ocrText": "LAST 7 DAYS\n\n88\n\n© 55038\n\nO\n\ncy\n\nNews User Report\n\ncS\n\n&\n\n=\n\nLast 30 days.\n\n==\n\nLast 3 months\n\nReport By\n\nFrom\n\nTo\n\nuser Name\n\nsort ay\n\nUser\n\n~ | [orrracz6\n\n3) [ara\n\n8) [onan\n\nCreated (most)\n\nRows\n\n50\n\n==)\n\nUser\n\ncreated\n\nModified\n\nTotal Views\n\n‘Avg / Story\n\nPending syne\n\n(MD. MUSTAFIZUR RAHMAN.\n\n98\n\n110\n\nAmzad Hussain\n\n46\n\niss\n\n2\n\n(4 others)\n\nMd, Rabiullah\n\n20\n\niis\n\n(others)\n\nMostakim Hossain\n\n2\n\n2\n\nao\n\nchanchal Ghosh\n\nies\n\n16\n\n°\n\n»\n\nMb. ABDUL GAFFAR\n\nae\n\nMohiuddin Anmed Chowdhury Hime!\n\na\n\nas\n\nothers)\n\nS.M. Anisur Rahman\n\nen\n\n‘otal (all users in range)\n\n207\n\n2a",
+      "source": "text+ocr"
+    },
+    {
+      "page": 149,
+      "text": "L A S T  3 0 D A Y S",
+      "ocrText": "LAST 30 DAYS\n\n(02 Nov 2026\n\nNews User Report ©\n\n> c= a= cD\n\nSE\n\n(Caer ][ esr] EEEEREN (osteo J[_ cars non\n\nReport By\n\nFrom\n\nTo\n\nUser Name\n\nSort By\n\n)\n\nContains,\n\nCreated (most)\n\n[tse\n\n©) [ovoar02s\n\n© | { 1170272026\n\nRows\n\n50\n\na\n\nUser\n\nModified\n\nTotal Views\n\nAug / Story\n\nPending Syne\n\nMD. MUSTAFIZUR RAHMAN\n\n255\n\n223\n\n235\n\nid10\n\n(others)\n\nAmzad Hussain\n\n100\n\n137\n\n100\n\nide\n\n(40 others)\n\nMostakim Hossain\n\n66\n\nigo\n\nMD. ABDUL GAFFAR\n\n60\n\n2\n\nida\n\n(others)\n\nMd, Rabiullah\n\n40\n\na\n\nais\n\na7\n\n(others)\n\nChanchal Ghosh\n\nia13\n\n27\n\n20\n\na\n\nS.M. Anisur Rahman\n\nian\n\nMohiuddin Ahmed Chowdhury Himel",
+      "source": "text+ocr"
+    },
+    {
+      "page": 150,
+      "text": "L A S T M O N T H",
+      "ocrText": "LAST MONTH\n\n© 5:59:37\n\n88\n\nNews User Report\n\n(Ceiweoste\n\ni\n\nOo\n\n&\n\nNews User Report (I==NE0=2=\n\n> => a= a>\n\n(Cie) Caras | earco cor | EEE (Coats mons\n\nReport By\n\nFrom\n\n10\n\nUser Name\n\nsort ay\n\nuser\n\n© | [1oroxracas\n\n©) (swarms\n\n5) conan\n\nCreated (most)\n\nRows\n\n50\n\n=-C=\n\nUser\n\nCreated\n\nModified\n\nTotal views\n\nAvg/ Story\n\nPending Syne\n\nMD, MUSTAFIZUR RAHMAN\n\n201\n\nia1o\n\n2a\n\nan\n\n(others)\n\nAmzad Hussain\n\n93\n\n126\n\noy\n\nvas\n\n(26 others)\n\nMostakim Hossain\n\nCI\n\no\n\nry\n\nMD, ABDUL GAFFAR\n\n59\n\nise\n\n1\n\n(others)\n\n*\n\n5\n\n5\n\nMd, Rabiullah\n\n20\n\na\n\nis\n\n(others)\n\nChanehal Ghosh\n\n”\n\n2\n\n”\n\nia\n\nS.M. Anisur Rahman,\n\nen\n\nMohiuddin Ahmed Chowdhury Himel\n\n3\n\nas\n\nothers)",
+      "source": "text+ocr"
+    },
+    {
+      "page": 151,
+      "text": "L A S T  3 M O N T H",
+      "ocrText": "LAST 3 MONTH\n\n88\n\nweb:\n\n© 5:59:49\n\ni)\n\nOo\n\né\n\n‘\n\nNews User Report\n\nNews User Report [ion] = o>\n\n(Cieiy |Lesitay | ess0a (ono EES\n\nReport By\n\nFrom\n\nTo\n\nUser Name\n\nsort ay\n\nUser\n\n¥\n\n08/02/2026\n\n8]\n\n11/02/2026\n\nContains.\n\nCreated (most)\n\nRows\n\n50\n\na\n\nUser\n\nModified\n\nTotal Views\n\nAvg Story\n\nPending Syne\n\nMb, MUSTAFIZUR RAHMAN\n\n258\n\n229\n\nas\n\n10\n\n(ethers)\n\nAmzad Hussain\n\n197\n\n100\n\n°\n\neo\n\n‘as\n\n(40 others)\n\nMostakim Hossain\n\nao\n\n66\n\n°\n\nMD. ABDUL GAFFAR\n\n60\n\n2\n\nee\n\n(ethers)\n\nMd. Rabiullah\n\n40\n\nais\n\n“7\n\n(ethers)\n\n©\n\nChanchal Ghosh\n\n20\n\n2\n\nia\n\nS.M. Anisur Rahman\n\nin\n\nMohiuddin Ahmed Chowdhury Himel",
+      "source": "text+ocr"
+    },
+    {
+      "page": 152,
+      "text": "A C T I V I T Y L O G\n\n•  This page tracks every create, update, and delete action performed across the CMS. The top summary bar shows Total\n   Actions, Created, Updated, Deleted, Unique Users, and Modules affected within the selected time range.\n\n•  Quick Range & Filters\n\n•  Use the quick range buttons (Today, Yesterday, 7 days, 30 days, 90 days) to instantly filter the log by time period. For\n  more precise control, use the advanced filters:\n\n•  From / To: Select a custom date and time range.\n\n•  Module: Filter by the CMS module where the action occurred (for example, FeaturedNews, News, Category).\n\n•  Action: Filter by action type (for example, BulkUpdate, Create, Update, Delete).\n\n•  User: Filter by the specific user who performed the action.\n\n•  Record or headline contains: Search by record name or news headline.\n\n•  Record ID: Find actions on a specific record by its ID.\n\n•  Sort: Order results by newest first or other criteria.\n\n•  Per page: Control how many log entries display at once.\n\n•  Click Apply Filters to execute the search, or Reset to clear all filters. Click Export CSV to download the current\n   filtered results.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 153,
+      "text": "•  Log List Table\n\n•  Each row represents one tracked action with the following details:\n\n• When: Exact date and time of the action.\n\n•  User: The user who performed the action, including their ID.\n\n•  Module: The section of the CMS where the change happened.\n\n•  Action: The type of action (for example, BulkUpdate).\n\n•  Record: The specific item that was changed, with a brief description.\n\n•  Changed: Number of fields that were modified (for example, \"26 fields\").\n\n•  IP: The IP address from which the action was performed.\n\n•  View: Click to open the full detail page for that specific log entry.\n\n•  Activity Log Detail\n\n•  Clicking View opens the detailed audit page for a single action (for example, \"Log Entry #12059\"). The header\n  shows the action type, module, target record, user, timestamp, and a description of what was done.\n\n•  Field Comparison\n\n• The main section displays a table comparing Old Value and New Value for every field that changed. Each modified\n  item is listed with an index number (for example, [0], [1]) and marked with a modified badge. This makes it easy to\n   see exactly what data was replaced.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 154,
+      "text": "• Show Unchanged Fields\n\n•  Toggle Show unchanged fields to expand the comparison and display fields that were part of the record but did not\n  change during the edit. This is useful for reviewing the complete state of the data.\n\n• Raw Stored Values\n\n•  Click Raw stored values to expand a code view showing the full OldValues and NewValues in their raw structured format\n   (similar to JSON). This displays the exact stored data objects with all properties such as newsId, position, and\n  headline, allowing for deep technical inspection of the changes.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 155,
+      "text": "A C T I V I T Y  L O G D E T A I L",
+      "ocrText": "ACTIVITY LOG DETAIL\n\n83\n\nActivity Log Detail\n\n© 55901\n\noO\n\nLog Entry #12059\n\nk t0 A\n\nty Log\n\n(GURREE restureanews co teat seeon\n\n(MD. MUSTAFIZUR RAHMAN (+10)\n\n‘Add News: placed \"ASTER AE SCAT HA ROTA HEH AI UTS PSAP CHETEMA at position O in Lead\n\n02 Nov 2026, 06:31:13 : 103.35.111.66\n\n‘Section (was 25 items)\n\nField Compar\n\nN26 of 26 fields changed\n\n© show unchanged tetas\n\nField\n\nld value\n\nNew Value\n\n{\"newsid\":567,\"position:0,\"headli\n\nFT Tors HO TS BIS Raa Crore Aa)\n\nSACG TTS EL\n\n{newsid\":565,\"position:2,\"headli\n\nMAE ON TAT HTA\\n\")\n\n(Phewsld\":559,\"position\":4,\"headline”:\"GFPIA GTS ACG\n\nESTA\n\n7\n\n(Cnewsid\"550.postion’5, \"headline\" AR HEN TAS\n\nTE SeTTAS)",
+      "source": "text+ocr"
+    },
+    {
+      "page": 156,
+      "text": "R A W  S T O R E D V A L U E S",
+      "ocrText": "RAW STORED VALUES\n\n==\n\nOldValues\n\nNewValues\n\na\n\nl\n\nnewsId\"\n\n566,\n\n“newsId\":\n\n867,\n\n‘position’\n\n\"position\":\n\n0,\n\nheadline’\n\n“SIRI WAS Wheis-aea Gyre! WEA Fer Fay:\n\n\"headline\": “fata afte qos WI Yom aH ms =e aaa\n\nwaaaa\"\n\nere star\n\nt,\n\ny\n\n{\n\n“newsId\"\n\n565,\n\nnewsId’\n\n366,\n\nposition’\n\na\n\n“position”\n\n1,\n\n\"headline\": “SSG ‘APNR ATTEY MAT OST AMA STA r\\n\"\n\n\"headline\": \"SIGE WUWS wis-afiem afkre Aa area Sarg:\n\ndy\n\nwagaat\n\n\"newsId\"\n\n554,\n\n{\n\n\"newsId\":\n\nposition’\n\n2,\n\n565,\n\n\"headline\": \"*T@ITA vo siga fafefe carerrea”\n\n“position”:\n\nZh\n\nh\n\n“headline”\n\n“SST ETE! AIREY AAA UST WMA STB\\r\\n\"\n\nhy\n\n“newsId\":\n\n559,\n\nposition’\n\nch\n\n\"newsld’\n\n854,\n\nheadline’\n\n“ORT GIS AE EEA aA”\n\n\"position\"\n\n3\n\n“headline”\n\nLh\n\nsome so ang FABRE carer”",
+      "source": "text+ocr"
+    },
+    {
+      "page": 157,
+      "text": "A U D I T R E P O RT S  / A L L R E P O RT S\n\n•  This section provides a comprehensive audit trail of all actions performed across the CMS. The top summary\n   bar shows Total Actions, Successful actions, Failed actions, Validation Failed counts, Unique Users, and Unique\n   Entities affected within the selected period.\n•  Quick Range & Filters\n•  Use the quick range buttons (Today, Yesterday, 7 days, 30 days, 90 days) to instantly filter the audit log by\n  time period. For advanced filtering, use:\n•  From / To: Custom date and time range.\n•  Entity Type: Filter by the type of content (for example, news, category, tag).\n•  Entity ID: Search for a specific record by its ID.\n•  Action: Filter by action type (for example, create, update, lock_released, featured_position_changed).\n•  Status: Filter by success or failure status.\n•  User: Filter by the user who performed the action.\n•  Title contains: Search by article or record title.\n•  Changed Field: Search for specific fields that were modified (for example, \"Title\").\n•  IP Address: Filter by the IP address where the action originated.\n•  Correlation ID: Search by a specific request UUID to track related actions.\n•  Per page: Control how many entries display at once.\n•  Click Apply Filters to execute the search, Reset to clear filters, or toggle Only failures to show unsuccessful\n   actions only. Click Export CSV to download the filtered results.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 158,
+      "text": "•  Audit List Table\n\n•  Each row represents one tracked action with the following details:\n\n•  When: Exact date and time of the action.\n\n•  User: The user who performed the action.\n\n•  Action: The type of action (for example, lock_released, update, featured_position_changed), displayed as a colored badge.\n\n•  Entity: The content type and ID affected (for example, news #569).\n\n•   Title: The headline or name of the affected record.\n\n•  Status: Whether the action succeeded or failed.\n\n•  Changed: Number of fields modified (for example, \"5 fields\").\n\n•  Duration: How long the action took to process.\n\n•  IP: The IP address from which the action was performed.\n\n•  View: Opens the detailed audit page for that specific action.\n\n•  Timeline: Opens the full chronological timeline for the affected entity.\n\n•  Audit Detail Page\n\n•  Clicking View opens the full audit detail for a single action (for example, \"Audit Detail #1869\"). The header shows:\n\n•  The action type and status (for example, lock_released, Success).\n\n•  The affected entity (for example, news #569) and its title.\n\n•  The user who performed the action, timestamp, and IP address.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 159,
+      "text": "•  Field Changes\n\n•  For actions that modified data, a Field Changes table compares Old Value and New Value for every changed field. In the\n   example, an update action shows changes to Last Published At, Locked, Locked At, Locked By, and Pinned\n  in categories. Switch between Plain Text, Rich Preview, and Raw view modes at the top right of the changes table.\n\n•  Related Events\n\n•  The detail page also shows Related Events, listing other actions that occurred in the same request. Each related event\n   displays its time, action type, status, and a link to view its own detail page. The Correlation ID at the bottom links all\n   actions from the same request together.\n\n•  Full Timeline\n\n•  Clicking Timeline on any audit row opens the Full Timeline for that specific entity (for example, news #569). This view\n  shows every event ever recorded for that item in chronological order, grouped by date. Each event displays:\n\n•  The action type badge (for example, create, update, featured_position_changed, lock_released).\n\n•  The user who performed it and their IP address.\n\n•  The exact timestamp.\n\n•  All fields that were changed, shown as inline tags.\n\n•  View Diff and All from request buttons for deeper inspection.\n\n•  The timeline summary bar at the top shows Total Events, Successful, Failed, and Unique Users for that entity's history.\n   Click Back to Report to return to the main audit list.",
+      "ocrText": "",
+      "source": "text"
+    },
+    {
+      "page": 160,
+      "text": "A U D I T  L O G V I S U A L V I E W",
+      "ocrText": "AUDIT LOG VISUAL VIEW\n\nTotal Actions\n\ncMs News\n\n1,868\n\nGD GEE 0\") GE Ga\n\nAll Stories\n\nNews Sorting\n\nSnippets Setup\n\ncue age: [to\n\n‘Yesteday\n\nTéays\n\n20 days\n\noa\n\nFrom\n\nTo\n\nent\n\n0\n\nAction\n\nstatus\n\nCollections\n\nEntity Type\n\n7\n\nmmvdd’yyyy ~~~\n\no\n\nmmvdd/yyyy~:\n\na\n\nall\n\n» [0 ‘lactions\n\nall\n\nAnalytics News\n\nuser\n\nTite contains\n\nChanges Fieta\n\nIP aaaress\n\nCorrelation 10\n\nHistory Log Reports\n\nAllusers\n\n‘Search article title\n\nPv IP\n\nuuID\n\n][esrtte\n\nAudit Reports\n\nPer page\n\n50\n\nv\n\n= All Reports\n\nCony fatures\n\nEs\n\nWhen\n\nUser\n\nAction\n\nEntity\n\nTitle\n\nStatus\n\nchanged\n\nuration\n\n02 Nov 07:90:21\n\nuo.\n\news\n\nwefan afte\n\n103.95.111.66\n\nMUSTAFIZUR\n\n+3569\n\nAEET ERY\n\nRAHMAN\n\n(2 Nov 07:30:21\n\nMo.\n\nnews\n\nwefan ofite\n\nToms\n\n103.95.111.66\n\nView\n\nMUSTAFIZUR\n\n#569\n\nape\n\nRAHMAN\n\n(02 Nov 07:29:10\n\nMo.\n\nnews\n\nwefan shire\n\n109.96.111.66\n\nView\n\nMUSTAFIZUR,\n\n#569\n\nap ERwe\n\nRAHMAN",
+      "source": "text+ocr"
+    },
+    {
+      "page": 161,
+      "text": "A U D I T D E T A I L S",
+      "ocrText": "AUDIT DETAILS\n\nAudit Detail #1869\n\nMD. MUSTAFIZUR RAHMAN (#10)\n\non news #569\n\nACTA TA OATS TGET WAVY BIT\n\n02 Nov 2026, 07:30:21\n\n103.35.111.66\n\nNo fiec-evel changes recorded for this event.\n\nRelated Events\n\n~ other actions in the same request\n\nTime\n\n‘Action\n\nStatus\n\n07:30:21,307\n\nfone\n\nCorrelation: e9sbc19c-encd-47b4-9020-sadsdess7742",
+      "source": "text+ocr"
+    },
+    {
+      "page": 162,
+      "text": "R E L A T E D  E V E N T S",
+      "ocrText": "RELATED EVENTS\n\nEE on news #569\n\nMD. MUSTAFIZUR RAHMAN (+10)\n\nACs HIT SATS AGEN O2o BIST\n\n02 Nov 2026, 07:30:21\n\n103.5.111.66\n\n7oms\n\n‘Action Kind: update\n\nWes Published: Yes\n\n1s Now Pi\n\ned: Yes\n\nField Changes (5)\n\nField\n\nOld Value\n\nNew Value\n\nLast Published At\n\nLastPublishedat\n\n02/11/2026 07:29:10 +00:00\n\n02/11/2026 07:30:21 +00:00\n\nLocked\n\nTrue\n\nFalse\n\nLocked\n\nLocked At\n\n(02/11/2026 07:30:16 +00:00\n\nLockedat\n\nLocked By\n\nLockedByid\n\n10\n\nPinned in categories\n\nPinnedcategoryids\n\n(2\n\nRelated Events\n\n— other actions in the same request\n\nTime\n\nAction\n\nStatus\n\n07:30:21.241",
+      "source": "text+ocr"
+    },
+    {
+      "page": 163,
+      "text": "F U L L T I M E L I N E",
+      "ocrText": "FULL TIMELINE\n\nFull Timeline\n\nED 00. whammeteaReTOswE BT\n\nTotal Events\n\ncessful\n\n4\n\n4\n\nTD\n\n| Monday, 02 November 2026\n\ne\n\n(QED M0. MUSTAFIZUR RAHMAN from 103.35.111 65\n\n07:29:10\n\nChanged 29 fiela(s)\n\nPage\n\nTle\n\nSig\n\nPath\n\nsubtesing\n\nence\n\nignont\n\nContent\n\nStoryType\n\nImageTite\n\nAimageite\n\nUe\n\nasUrpubishedChanges\n\nFretPubiebesat\n\nLastPoblicheest\n\nDonshowintatest\n\nLecked\n\nCategoris\n\nImages\n\ncena\n\nimages\n\nuthoride\n\nNowsTesee\n\nDisployTonls\n\nTrendingtaaice\n\nFesarete\n\nAeteronceiows\n\nProne ategor ite\n\nseoTite\n\nta0escrpton\n\n66\n\n‘teatured positon changed\n\nMD, MUSTAFIZUR RAHMAN\n\n03\n\n5\n\n29:10\n\npdt\n\nMD. MUSTAFIZUR RAHMAN {rom 10:\n\n35.111.66\n\n7:30:21\n\nChanged 5 field(s):\n\nie\n\nSih\n\nected\n\nLackesbyig\n\nLechedAt\n\nPinnedCetese\n\nlock\n\neased\n\nMD. MUSTAFIZUR RAHMAN\n\nm 103,\n\n66",
+      "source": "text+ocr"
+    }
+  ]
+}

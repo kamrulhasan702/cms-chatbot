@@ -1,0 +1,1284 @@
+{
+  "corpusHash": "E07F6284DACC8C5E6D1E5FAB38E96879B67A872E9D9BC0098ECC4AAC01C0CB52",
+  "images": [
+    {
+      "id": "fig-34e2c5f678a5",
+      "page": 1,
+      "relatedPages": [
+        1
+      ],
+      "caption": "+ OPERATIONAL PROCEDURE (2-3 STEPS)",
+      "fileName": "fig-34e2c5f678a5.webp"
+    },
+    {
+      "id": "fig-bbcad05fe135",
+      "page": 1,
+      "relatedPages": [
+        1
+      ],
+      "caption": "+ OPERATIONAL PROCEDURE (2-3 STEPS)",
+      "fileName": "fig-bbcad05fe135.webp"
+    },
+    {
+      "id": "fig-fef57683fabf",
+      "page": 3,
+      "relatedPages": [
+        3,
+        2
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-fef57683fabf.webp"
+    },
+    {
+      "id": "fig-0c34d5ad18d8",
+      "page": 5,
+      "relatedPages": [
+        5
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-0c34d5ad18d8.webp"
+    },
+    {
+      "id": "fig-9be870b5ea80",
+      "page": 5,
+      "relatedPages": [
+        5
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-9be870b5ea80.webp"
+    },
+    {
+      "id": "fig-8a2bdce82a69",
+      "page": 5,
+      "relatedPages": [
+        5
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-8a2bdce82a69.webp"
+    },
+    {
+      "id": "fig-d822dc42536d",
+      "page": 5,
+      "relatedPages": [
+        5
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-d822dc42536d.webp"
+    },
+    {
+      "id": "fig-989f6a91a067",
+      "page": 7,
+      "relatedPages": [
+        7,
+        6
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-989f6a91a067.webp"
+    },
+    {
+      "id": "fig-cae0c9908418",
+      "page": 9,
+      "relatedPages": [
+        9,
+        8
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-cae0c9908418.webp"
+    },
+    {
+      "id": "fig-c68b7c427d7a",
+      "page": 11,
+      "relatedPages": [
+        11
+      ],
+      "caption": "Bulleted list: Creates an unordered list using <ul> and <li> tags.",
+      "fileName": "fig-c68b7c427d7a.webp"
+    },
+    {
+      "id": "fig-89aa0bd8f6a2",
+      "page": 12,
+      "relatedPages": [
+        12
+      ],
+      "caption": "Insert Internal Link",
+      "fileName": "fig-89aa0bd8f6a2.webp"
+    },
+    {
+      "id": "fig-6976b72a71c1",
+      "page": 12,
+      "relatedPages": [
+        12
+      ],
+      "caption": "Insert Internal Link",
+      "fileName": "fig-6976b72a71c1.webp"
+    },
+    {
+      "id": "fig-3bc8f0017e69",
+      "page": 14,
+      "relatedPages": [
+        14,
+        13
+      ],
+      "caption": "Add Image Caption",
+      "fileName": "fig-3bc8f0017e69.webp"
+    },
+    {
+      "id": "fig-001796e60c9a",
+      "page": 14,
+      "relatedPages": [
+        14,
+        13
+      ],
+      "caption": "Choose an Image \u2013 Search",
+      "fileName": "fig-001796e60c9a.webp"
+    },
+    {
+      "id": "fig-6e42114e479b",
+      "page": 14,
+      "relatedPages": [
+        14,
+        13
+      ],
+      "caption": "Choose an Image \u2013 Upload",
+      "fileName": "fig-6e42114e479b.webp"
+    },
+    {
+      "id": "fig-1feb18c2968c",
+      "page": 15,
+      "relatedPages": [
+        15
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-1feb18c2968c.webp"
+    },
+    {
+      "id": "fig-171885cf7009",
+      "page": 15,
+      "relatedPages": [
+        15
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-171885cf7009.webp"
+    },
+    {
+      "id": "fig-571328e6f4d5",
+      "page": 17,
+      "relatedPages": [
+        17,
+        16
+      ],
+      "caption": "Select Multiple Images \u2013 Search  Gallery in the Content Editor",
+      "fileName": "fig-571328e6f4d5.webp"
+    },
+    {
+      "id": "fig-afce146c786b",
+      "page": 17,
+      "relatedPages": [
+        17,
+        16
+      ],
+      "caption": "Select Multiple Images \u2013 Search  Gallery in the Content Editor",
+      "fileName": "fig-afce146c786b.webp"
+    },
+    {
+      "id": "fig-d21a633e50ed",
+      "page": 18,
+      "relatedPages": [
+        18
+      ],
+      "caption": "Upload New Images \u2013 Upload",
+      "fileName": "fig-d21a633e50ed.webp"
+    },
+    {
+      "id": "fig-a5b738b002d1",
+      "page": 19,
+      "relatedPages": [
+        19
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-a5b738b002d1.webp"
+    },
+    {
+      "id": "fig-d3f454111a8b",
+      "page": 19,
+      "relatedPages": [
+        19
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-d3f454111a8b.webp"
+    },
+    {
+      "id": "fig-7ea89fe7a6c7",
+      "page": 20,
+      "relatedPages": [
+        20
+      ],
+      "caption": "Insert Embed video                    Embed video in the Content Editor",
+      "fileName": "fig-7ea89fe7a6c7.webp"
+    },
+    {
+      "id": "fig-dbd4cec0e735",
+      "page": 20,
+      "relatedPages": [
+        20
+      ],
+      "caption": "Insert Embed video                    Embed video in the Content Editor",
+      "fileName": "fig-dbd4cec0e735.webp"
+    },
+    {
+      "id": "fig-4b62f72071c3",
+      "page": 22,
+      "relatedPages": [
+        22,
+        21
+      ],
+      "caption": "Choose a Document \u2013 Search  PDF in the Content Editor",
+      "fileName": "fig-4b62f72071c3.webp"
+    },
+    {
+      "id": "fig-4a451d0c63d0",
+      "page": 22,
+      "relatedPages": [
+        22,
+        21
+      ],
+      "caption": "Choose a Document \u2013 Search  PDF in the Content Editor",
+      "fileName": "fig-4a451d0c63d0.webp"
+    },
+    {
+      "id": "fig-234c9eb4b53f",
+      "page": 23,
+      "relatedPages": [
+        23
+      ],
+      "caption": "Choose a Document \u2013 Upload",
+      "fileName": "fig-234c9eb4b53f.webp"
+    },
+    {
+      "id": "fig-fd23ade17669",
+      "page": 24,
+      "relatedPages": [
+        24
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-fd23ade17669.webp"
+    },
+    {
+      "id": "fig-06919a722e9d",
+      "page": 25,
+      "relatedPages": [
+        25
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-06919a722e9d.webp"
+    },
+    {
+      "id": "fig-893092e1478e",
+      "page": 26,
+      "relatedPages": [
+        26
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-893092e1478e.webp"
+    },
+    {
+      "id": "fig-896d397903b8",
+      "page": 27,
+      "relatedPages": [
+        27
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-896d397903b8.webp"
+    },
+    {
+      "id": "fig-d731718ae7e3",
+      "page": 28,
+      "relatedPages": [
+        28
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-d731718ae7e3.webp"
+    },
+    {
+      "id": "fig-6c2f06530641",
+      "page": 29,
+      "relatedPages": [
+        29
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-6c2f06530641.webp"
+    },
+    {
+      "id": "fig-ce9bbb1ce7cd",
+      "page": 29,
+      "relatedPages": [
+        29
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-ce9bbb1ce7cd.webp"
+    },
+    {
+      "id": "fig-6cdc68ecf238",
+      "page": 30,
+      "relatedPages": [
+        30
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-6cdc68ecf238.webp"
+    },
+    {
+      "id": "fig-2cfc7b19b566",
+      "page": 31,
+      "relatedPages": [
+        31
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-2cfc7b19b566.webp"
+    },
+    {
+      "id": "fig-5560eacedb83",
+      "page": 32,
+      "relatedPages": [
+        32
+      ],
+      "caption": "Link up to 3 related news articles to the current story using the multi-select dropdown.",
+      "fileName": "fig-5560eacedb83.webp"
+    },
+    {
+      "id": "fig-bbe7f3199788",
+      "page": 33,
+      "relatedPages": [
+        33
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-bbe7f3199788.webp"
+    },
+    {
+      "id": "fig-ed4aaf2e70f0",
+      "page": 33,
+      "relatedPages": [
+        33
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-ed4aaf2e70f0.webp"
+    },
+    {
+      "id": "fig-2b7ba244c4f3",
+      "page": 34,
+      "relatedPages": [
+        34
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-2b7ba244c4f3.webp"
+    },
+    {
+      "id": "fig-e0107c84ad37",
+      "page": 35,
+      "relatedPages": [
+        35
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-e0107c84ad37.webp"
+    },
+    {
+      "id": "fig-dbce9d651acb",
+      "page": 35,
+      "relatedPages": [
+        35
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-dbce9d651acb.webp"
+    },
+    {
+      "id": "fig-330406dc0114",
+      "page": 37,
+      "relatedPages": [
+        37
+      ],
+      "caption": "A RT I C L E  P RE V I E W  M O B I L E  A N D  D E S K T O P  V I E W",
+      "fileName": "fig-330406dc0114.webp"
+    },
+    {
+      "id": "fig-66a211708bf2",
+      "page": 37,
+      "relatedPages": [
+        37
+      ],
+      "caption": "A RT I C L E  P RE V I E W  M O B I L E  A N D  D E S K T O P  V I E W",
+      "fileName": "fig-66a211708bf2.webp"
+    },
+    {
+      "id": "fig-4a4beda81769",
+      "page": 39,
+      "relatedPages": [
+        39
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-4a4beda81769.webp"
+    },
+    {
+      "id": "fig-bbd9f6134c3d",
+      "page": 40,
+      "relatedPages": [
+        40
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-bbd9f6134c3d.webp"
+    },
+    {
+      "id": "fig-c0ffa522e363",
+      "page": 42,
+      "relatedPages": [
+        42
+      ],
+      "caption": "Numbered list / Bulleted list: Create ordered (<ol>) or unordered (<ul>) lists.",
+      "fileName": "fig-c0ffa522e363.webp"
+    },
+    {
+      "id": "fig-26a291dbd0d0",
+      "page": 42,
+      "relatedPages": [
+        42
+      ],
+      "caption": "Note: This all functionalities same as Add News form content Editor.",
+      "fileName": "fig-26a291dbd0d0.webp"
+    },
+    {
+      "id": "fig-ccba180da026",
+      "page": 45,
+      "relatedPages": [
+        45
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-ccba180da026.webp"
+    },
+    {
+      "id": "fig-4b9c1ffd7ddd",
+      "page": 46,
+      "relatedPages": [
+        46
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-4b9c1ffd7ddd.webp"
+    },
+    {
+      "id": "fig-55cab0fd2da4",
+      "page": 48,
+      "relatedPages": [
+        48
+      ],
+      "caption": "Pin in category page: Toggle on to pin the story to the top of its category page.",
+      "fileName": "fig-55cab0fd2da4.webp"
+    },
+    {
+      "id": "fig-1e1de3a93093",
+      "page": 49,
+      "relatedPages": [
+        49
+      ],
+      "caption": "Meta Keyword: Add keywords for search engine optimization (maximum 500 characters).",
+      "fileName": "fig-1e1de3a93093.webp"
+    },
+    {
+      "id": "fig-274eecc4312b",
+      "page": 52,
+      "relatedPages": [
+        52,
+        51
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-274eecc4312b.webp"
+    },
+    {
+      "id": "fig-c97d6684cd27",
+      "page": 53,
+      "relatedPages": [
+        53,
+        52
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-c97d6684cd27.webp"
+    },
+    {
+      "id": "fig-76667ae1eb65",
+      "page": 54,
+      "relatedPages": [
+        54,
+        53
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-76667ae1eb65.webp"
+    },
+    {
+      "id": "fig-b28f4aa3640d",
+      "page": 57,
+      "relatedPages": [
+        57
+      ],
+      "caption": "Schedule: Set a future date and time for the web story to be published automatically.",
+      "fileName": "fig-b28f4aa3640d.webp"
+    },
+    {
+      "id": "fig-3f556ae43944",
+      "page": 58,
+      "relatedPages": [
+        58,
+        57
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-3f556ae43944.webp"
+    },
+    {
+      "id": "fig-b306d777dacd",
+      "page": 59,
+      "relatedPages": [
+        59
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-b306d777dacd.webp"
+    },
+    {
+      "id": "fig-d39e7a875f0c",
+      "page": 60,
+      "relatedPages": [
+        60
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-d39e7a875f0c.webp"
+    },
+    {
+      "id": "fig-ffb3a5e1bb5c",
+      "page": 63,
+      "relatedPages": [
+        63,
+        62
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-ffb3a5e1bb5c.webp"
+    },
+    {
+      "id": "fig-57e4c5eeacda",
+      "page": 63,
+      "relatedPages": [
+        63,
+        62
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-57e4c5eeacda.webp"
+    },
+    {
+      "id": "fig-46f671187d3b",
+      "page": 64,
+      "relatedPages": [
+        64
+      ],
+      "caption": "Each history entry includes a view detail link to see the full specifics of that change.",
+      "fileName": "fig-46f671187d3b.webp"
+    },
+    {
+      "id": "fig-4ef5e6054598",
+      "page": 64,
+      "relatedPages": [
+        64
+      ],
+      "caption": "Each history entry includes a view detail link to see the full specifics of that change.",
+      "fileName": "fig-4ef5e6054598.webp"
+    },
+    {
+      "id": "fig-cf11b1059c4d",
+      "page": 65,
+      "relatedPages": [
+        65
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-cf11b1059c4d.webp"
+    },
+    {
+      "id": "fig-ae444350bab5",
+      "page": 66,
+      "relatedPages": [
+        66
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-ae444350bab5.webp"
+    },
+    {
+      "id": "fig-f6adb03fbce8",
+      "page": 69,
+      "relatedPages": [
+        69
+      ],
+      "caption": "Public Site After Click on View button from list",
+      "fileName": "fig-f6adb03fbce8.webp"
+    },
+    {
+      "id": "fig-3a44aa486f55",
+      "page": 70,
+      "relatedPages": [
+        70
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-3a44aa486f55.webp"
+    },
+    {
+      "id": "fig-638489d783c4",
+      "page": 71,
+      "relatedPages": [
+        71
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-638489d783c4.webp"
+    },
+    {
+      "id": "fig-05ac79be86cb",
+      "page": 72,
+      "relatedPages": [
+        72
+      ],
+      "caption": "Filter by the format of the content. Select one or more types from the list:",
+      "fileName": "fig-05ac79be86cb.webp"
+    },
+    {
+      "id": "fig-9fb8ccf8e6fa",
+      "page": 73,
+      "relatedPages": [
+        73
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-9fb8ccf8e6fa.webp"
+    },
+    {
+      "id": "fig-6c5a1497ea9f",
+      "page": 73,
+      "relatedPages": [
+        73
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-6c5a1497ea9f.webp"
+    },
+    {
+      "id": "fig-e0287a4ac02c",
+      "page": 74,
+      "relatedPages": [
+        74
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-e0287a4ac02c.webp"
+    },
+    {
+      "id": "fig-2e50afcea54e",
+      "page": 76,
+      "relatedPages": [
+        76
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-2e50afcea54e.webp"
+    },
+    {
+      "id": "fig-ee305423f00f",
+      "page": 77,
+      "relatedPages": [
+        77
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-ee305423f00f.webp"
+    },
+    {
+      "id": "fig-bc9da642a973",
+      "page": 78,
+      "relatedPages": [
+        78
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-bc9da642a973.webp"
+    },
+    {
+      "id": "fig-e6de543c06df",
+      "page": 79,
+      "relatedPages": [
+        79
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-e6de543c06df.webp"
+    },
+    {
+      "id": "fig-ebdf9afb6151",
+      "page": 80,
+      "relatedPages": [
+        80
+      ],
+      "caption": "Featured Items List",
+      "fileName": "fig-ebdf9afb6151.webp"
+    },
+    {
+      "id": "fig-63c39794a787",
+      "page": 81,
+      "relatedPages": [
+        81
+      ],
+      "caption": "Max Positions: The maximum number of stories allowed in this section (range 1\u2013100).",
+      "fileName": "fig-63c39794a787.webp"
+    },
+    {
+      "id": "fig-761b957e9d23",
+      "page": 81,
+      "relatedPages": [
+        81
+      ],
+      "caption": "Max Positions: The maximum number of stories allowed in this section (range 1\u2013100).",
+      "fileName": "fig-761b957e9d23.webp"
+    },
+    {
+      "id": "fig-855fb4265bee",
+      "page": 83,
+      "relatedPages": [
+        83
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-855fb4265bee.webp"
+    },
+    {
+      "id": "fig-c6d29a1a8be1",
+      "page": 84,
+      "relatedPages": [
+        84
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-c6d29a1a8be1.webp"
+    },
+    {
+      "id": "fig-b98872d1b1af",
+      "page": 86,
+      "relatedPages": [
+        86
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-b98872d1b1af.webp"
+    },
+    {
+      "id": "fig-e0df943e0d8d",
+      "page": 87,
+      "relatedPages": [
+        87
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-e0df943e0d8d.webp"
+    },
+    {
+      "id": "fig-6d2a18197414",
+      "page": 88,
+      "relatedPages": [
+        88
+      ],
+      "caption": "Static: Uses a data source identifier.",
+      "fileName": "fig-6d2a18197414.webp"
+    },
+    {
+      "id": "fig-e0367294c139",
+      "page": 89,
+      "relatedPages": [
+        89
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-e0367294c139.webp"
+    },
+    {
+      "id": "fig-32866d894406",
+      "page": 91,
+      "relatedPages": [
+        91
+      ],
+      "caption": "Delete (trash): Remove the author from the system.",
+      "fileName": "fig-32866d894406.webp"
+    },
+    {
+      "id": "fig-67f940685028",
+      "page": 92,
+      "relatedPages": [
+        92
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-67f940685028.webp"
+    },
+    {
+      "id": "fig-62c355d418dc",
+      "page": 97,
+      "relatedPages": [
+        97
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-62c355d418dc.webp"
+    },
+    {
+      "id": "fig-27486d0b012f",
+      "page": 98,
+      "relatedPages": [
+        98
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-27486d0b012f.webp"
+    },
+    {
+      "id": "fig-a3c1298a93ca",
+      "page": 99,
+      "relatedPages": [
+        99
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-a3c1298a93ca.webp"
+    },
+    {
+      "id": "fig-591b5ee8f09a",
+      "page": 100,
+      "relatedPages": [
+        100
+      ],
+      "caption": "Use the Search field to find tags by name or slug, filter by All types, and click Recalculate to refresh tag statistics.",
+      "fileName": "fig-591b5ee8f09a.webp"
+    },
+    {
+      "id": "fig-254c63644f33",
+      "page": 101,
+      "relatedPages": [
+        101
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-254c63644f33.webp"
+    },
+    {
+      "id": "fig-2654eb2b5904",
+      "page": 103,
+      "relatedPages": [
+        103
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-2654eb2b5904.webp"
+    },
+    {
+      "id": "fig-9114ff7fb40b",
+      "page": 104,
+      "relatedPages": [
+        104
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-9114ff7fb40b.webp"
+    },
+    {
+      "id": "fig-122513b05311",
+      "page": 105,
+      "relatedPages": [
+        105
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-122513b05311.webp"
+    },
+    {
+      "id": "fig-a8fdcaa5ac75",
+      "page": 107,
+      "relatedPages": [
+        107,
+        106
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-a8fdcaa5ac75.webp"
+    },
+    {
+      "id": "fig-56940f173461",
+      "page": 108,
+      "relatedPages": [
+        108,
+        107
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-56940f173461.webp"
+    },
+    {
+      "id": "fig-827d08f50814",
+      "page": 109,
+      "relatedPages": [
+        109
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-827d08f50814.webp"
+    },
+    {
+      "id": "fig-76d3ae6629ec",
+      "page": 110,
+      "relatedPages": [
+        110
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-76d3ae6629ec.webp"
+    },
+    {
+      "id": "fig-32a2a4830301",
+      "page": 112,
+      "relatedPages": [
+        112
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-32a2a4830301.webp"
+    },
+    {
+      "id": "fig-749bce5eb395",
+      "page": 113,
+      "relatedPages": [
+        113
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-749bce5eb395.webp"
+    },
+    {
+      "id": "fig-6b3dd3efd08d",
+      "page": 114,
+      "relatedPages": [
+        114
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-6b3dd3efd08d.webp"
+    },
+    {
+      "id": "fig-2489992f3859",
+      "page": 115,
+      "relatedPages": [
+        115
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-2489992f3859.webp"
+    },
+    {
+      "id": "fig-44f1d4d1fcf7",
+      "page": 116,
+      "relatedPages": [
+        116
+      ],
+      "caption": "Click Create Category to save, or Cancel to discard.",
+      "fileName": "fig-44f1d4d1fcf7.webp"
+    },
+    {
+      "id": "fig-8cff8f5b2b8f",
+      "page": 117,
+      "relatedPages": [
+        117
+      ],
+      "caption": "Click the edit (pencil) icon on any category row to open the Edit Category form. Update the",
+      "fileName": "fig-8cff8f5b2b8f.webp"
+    },
+    {
+      "id": "fig-c75632a5dcc9",
+      "page": 118,
+      "relatedPages": [
+        118
+      ],
+      "caption": "Click Save Changes to apply updates, or Cancel to discard them.",
+      "fileName": "fig-c75632a5dcc9.webp"
+    },
+    {
+      "id": "fig-2638692cc45d",
+      "page": 119,
+      "relatedPages": [
+        119
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-2638692cc45d.webp"
+    },
+    {
+      "id": "fig-805758445f72",
+      "page": 120,
+      "relatedPages": [
+        120
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-805758445f72.webp"
+    },
+    {
+      "id": "fig-2f682d6bde5f",
+      "page": 121,
+      "relatedPages": [
+        121
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-2f682d6bde5f.webp"
+    },
+    {
+      "id": "fig-bf57e3291436",
+      "page": 122,
+      "relatedPages": [
+        122
+      ],
+      "caption": "Menu List",
+      "fileName": "fig-bf57e3291436.webp"
+    },
+    {
+      "id": "fig-e547ad99e17a",
+      "page": 123,
+      "relatedPages": [
+        123
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-e547ad99e17a.webp"
+    },
+    {
+      "id": "fig-1fb0e95b7f7e",
+      "page": 124,
+      "relatedPages": [
+        124
+      ],
+      "caption": "Expand arrow: Click to view and manage existing sub-items under that menu.",
+      "fileName": "fig-1fb0e95b7f7e.webp"
+    },
+    {
+      "id": "fig-ed47003a9e9a",
+      "page": 125,
+      "relatedPages": [
+        125
+      ],
+      "caption": "Header URL: Custom URL path (for example,",
+      "fileName": "fig-ed47003a9e9a.webp"
+    },
+    {
+      "id": "fig-4b6d886973a9",
+      "page": 126,
+      "relatedPages": [
+        126
+      ],
+      "caption": "Check Open in new tab if needed, then click Save to add the sub-item.",
+      "fileName": "fig-4b6d886973a9.webp"
+    },
+    {
+      "id": "fig-eee647b92f1c",
+      "page": 126,
+      "relatedPages": [
+        126
+      ],
+      "caption": "Check Open in new tab if needed, then click Save to add the sub-item.",
+      "fileName": "fig-eee647b92f1c.webp"
+    },
+    {
+      "id": "fig-1beb22b2ec16",
+      "page": 128,
+      "relatedPages": [
+        128
+      ],
+      "caption": "How to Update",
+      "fileName": "fig-1beb22b2ec16.webp"
+    },
+    {
+      "id": "fig-ca87ab1da751",
+      "page": 129,
+      "relatedPages": [
+        129
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-ca87ab1da751.webp"
+    },
+    {
+      "id": "fig-b37fe34df692",
+      "page": 132,
+      "relatedPages": [
+        132
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-b37fe34df692.webp"
+    },
+    {
+      "id": "fig-cbce3b1ba1f0",
+      "page": 133,
+      "relatedPages": [
+        133
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-cbce3b1ba1f0.webp"
+    },
+    {
+      "id": "fig-c12c1a4e014b",
+      "page": 134,
+      "relatedPages": [
+        134
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-c12c1a4e014b.webp"
+    },
+    {
+      "id": "fig-a5c318b44bc9",
+      "page": 135,
+      "relatedPages": [
+        135
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-a5c318b44bc9.webp"
+    },
+    {
+      "id": "fig-28fcc02b2f20",
+      "page": 136,
+      "relatedPages": [
+        136
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-28fcc02b2f20.webp"
+    },
+    {
+      "id": "fig-cee7771279e1",
+      "page": 136,
+      "relatedPages": [
+        136
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-cee7771279e1.webp"
+    },
+    {
+      "id": "fig-ba3fef65c259",
+      "page": 138,
+      "relatedPages": [
+        138
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-ba3fef65c259.webp"
+    },
+    {
+      "id": "fig-35a185c581dd",
+      "page": 139,
+      "relatedPages": [
+        139
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-35a185c581dd.webp"
+    },
+    {
+      "id": "fig-2587be2ac00f",
+      "page": 139,
+      "relatedPages": [
+        139
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-2587be2ac00f.webp"
+    },
+    {
+      "id": "fig-58715e8474a4",
+      "page": 142,
+      "relatedPages": [
+        142
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-58715e8474a4.webp"
+    },
+    {
+      "id": "fig-afd1fea2d833",
+      "page": 143,
+      "relatedPages": [
+        143
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-afd1fea2d833.webp"
+    },
+    {
+      "id": "fig-15383accf8c0",
+      "page": 147,
+      "relatedPages": [
+        147
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-15383accf8c0.webp"
+    },
+    {
+      "id": "fig-6914345984e8",
+      "page": 148,
+      "relatedPages": [
+        148
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-6914345984e8.webp"
+    },
+    {
+      "id": "fig-8250336a60b5",
+      "page": 149,
+      "relatedPages": [
+        149
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-8250336a60b5.webp"
+    },
+    {
+      "id": "fig-5d1aaa617970",
+      "page": 150,
+      "relatedPages": [
+        150
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-5d1aaa617970.webp"
+    },
+    {
+      "id": "fig-d7350f97e2c2",
+      "page": 151,
+      "relatedPages": [
+        151
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-d7350f97e2c2.webp"
+    },
+    {
+      "id": "fig-ab0e3a6d13c3",
+      "page": 154,
+      "relatedPages": [
+        154
+      ],
+      "caption": "Raw Stored Values",
+      "fileName": "fig-ab0e3a6d13c3.webp"
+    },
+    {
+      "id": "fig-5a0730660914",
+      "page": 155,
+      "relatedPages": [
+        155
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-5a0730660914.webp"
+    },
+    {
+      "id": "fig-198d8e111cc8",
+      "page": 156,
+      "relatedPages": [
+        156
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-198d8e111cc8.webp"
+    },
+    {
+      "id": "fig-23c7e275a1fc",
+      "page": 160,
+      "relatedPages": [
+        160,
+        159
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-23c7e275a1fc.webp"
+    },
+    {
+      "id": "fig-7b4ea566fe3f",
+      "page": 161,
+      "relatedPages": [
+        161
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-7b4ea566fe3f.webp"
+    },
+    {
+      "id": "fig-31e4f30bcfea",
+      "page": 162,
+      "relatedPages": [
+        162
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-31e4f30bcfea.webp"
+    },
+    {
+      "id": "fig-eff5925b6f2c",
+      "page": 163,
+      "relatedPages": [
+        163
+      ],
+      "caption": "Manual screenshot",
+      "fileName": "fig-eff5925b6f2c.webp"
+    }
+  ]
+}

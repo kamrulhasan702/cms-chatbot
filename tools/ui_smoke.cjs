@@ -1,0 +1,70 @@
+// Run with NODE_PATH pointing to a Playwright installation. Local API is stubbed; no AI calls.
+const { chromium } = require('playwright');
+const assert = require('node:assert/strict');
+const path = require('node:path');
+(async () => {
+ const browser = await chromium.launch({headless:true, ...(process.env.CHROME_PATH ? {executablePath:process.env.CHROME_PATH} : {}), args:['--no-sandbox']});
+ const fs=require('node:fs');
+ const manifest=JSON.parse(fs.readFileSync(path.join(__dirname,'../src/ManualChatbot/Knowledge/figures.json'),'utf8'));
+ const fig=manifest.images.find(i=>i.page===14);
+ const page = await browser.newPage({viewport:{width:1200,height:1000}});
+ const errors=[];page.on('pageerror',e=>errors.push(e.message));
+ let requests=[],fail=false;
+ await page.route('**/api/manual-images/**',r=>r.fulfill({contentType:'image/webp',body:fs.readFileSync(path.join(__dirname,'../src/ManualChatbot/Knowledge/figures',fig.fileName))}));
+ await page.route('**/api/status',r=>r.fulfill({json:{ready:true,manualReady:true,needsSignIn:false}}));
+ await page.route('**/api/chat',r=>{
+  requests.push(r.request().postDataJSON());
+  return r.fulfill(fail ? {status:503,json:{message:'Local test failure'}} : {json:{answer:'Click Image, then choose Search or Upload.',language:'en',usedFallback:false,images:[{url:'/api/manual-images/'+fig.id,caption:fig.caption}]}});
+ });
+ await page.goto('http://127.0.0.1:5199');
+ await page.getByText('Online',{exact:true}).waitFor();
+ assert.equal(await page.locator('.chat-window').evaluate(e=>e.getBoundingClientRect().width),480);
+ const image={name:'cms-screen.png',mimeType:'image/png',buffer:Buffer.from('iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+jRZkAAAAASUVORK5CYII=','base64')};
+ const pasted=await page.evaluate(bytes=>{
+  const transfer=new DataTransfer();transfer.items.add(new File([new Uint8Array(bytes)],'clipboard.png',{type:'image/png'}));
+  const event=new ClipboardEvent('paste',{clipboardData:transfer,bubbles:true,cancelable:true});
+  document.getElementById('question').dispatchEvent(event);return event.defaultPrevented;
+ },Array.from(image.buffer));
+ assert(pasted,'Image paste is handled');await page.locator('#attachmentPreview').waitFor({state:'visible'});
+ assert.equal(await page.locator('#attachmentName').textContent(),'clipboard.png');
+ await page.locator('#removeAttachment').click();
+ const plainTextPrevented=await page.evaluate(()=>{
+  const transfer=new DataTransfer();transfer.setData('text/plain','Hello');
+  const event=new ClipboardEvent('paste',{clipboardData:transfer,bubbles:true,cancelable:true});
+  document.getElementById('question').dispatchEvent(event);return event.defaultPrevented;
+ });
+ assert(!plainTextPrevented,'Normal text paste remains unchanged');
+ await page.locator('#imageInput').setInputFiles(image);
+ await page.locator('#attachmentPreview').waitFor({state:'visible'});
+ assert.equal(await page.locator('#attachmentName').textContent(),'cms-screen.png');
+ await page.locator('#removeAttachment').click();
+ await page.locator('#attachmentPreview').waitFor({state:'hidden'});
+ await page.locator('#imageInput').setInputFiles(image);
+ await page.locator('#attachmentPreview').waitFor({state:'visible'});
+ await page.locator('#question').fill('What next?');await page.locator('#send').click();
+ await page.getByText('Click Image, then choose Search or Upload.',{exact:true}).waitFor();
+ assert(requests[0].imageDataUrl.startsWith('data:image/png;base64,'));
+ await page.locator('.manual-gallery img').waitFor({state:'visible'});
+ assert(await page.locator('.manual-gallery img').evaluate(img=>img.complete && img.naturalWidth>0));
+ await page.locator('.manual-gallery .screenshot-button').click();await page.locator('dialog').waitFor({state:'visible'});
+ await page.getByRole('button',{name:'Close',exact:true}).click();await page.locator('dialog').waitFor({state:'detached'});
+
+ await page.locator('.user .screenshot-button').click();await page.locator('dialog').waitFor({state:'visible'});
+ await page.getByRole('button',{name:'Close',exact:true}).click();
+ await page.locator('dialog').waitFor({state:'detached'});
+ fail=true;
+ await page.locator('#imageInput').setInputFiles(image);await page.locator('#attachmentPreview').waitFor({state:'visible'});
+ await page.locator('#question').fill('Help with this screen');await page.locator('#send').click();
+ await page.getByText('Try again',{exact:true}).waitFor();fail=false;await page.getByText('Try again',{exact:true}).click();
+ await page.waitForFunction(()=>document.querySelectorAll('.message.assistant:not(.error) .bubble').length===2);
+ assert.equal(requests[1].imageDataUrl,requests[2].imageDataUrl,'Retry retains screenshot');
+ await page.locator('#imageInput').setInputFiles({name:'invalid.svg',mimeType:'image/svg+xml',buffer:Buffer.from('<svg/>')});
+ await page.locator('#uploadError').waitFor({state:'visible'});
+ await page.screenshot({path:'/tmp/manual-images-chat-desktop.png'});
+ await page.keyboard.press('Control+k');assert.equal(await page.locator('.screenshot-button').count(),0);
+ await page.setViewportSize({width:360,height:780});
+ assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'No horizontal overflow on mobile');
+ await page.screenshot({path:'/tmp/onair-screenshot-ui.png'});
+ assert.deepEqual(errors,[]);await browser.close();
+ console.log('UI checks passed: clipboard image and text handling, answer illustrations and enlargement, slim desktop/mobile layout, image preview/remove/send/enlarge, retry, invalid file and reset.');
+})().catch(e=>{console.error(e);process.exit(1)});

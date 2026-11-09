@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en" writingsuggestions="false">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="app-release" content="illustrated-r9">
+  <meta name="description" content="Ask the On-Air CMS manual assistant in English, বাংলা or Banglish.">
+  <title>Assistant · On-Air</title>
+  <link rel="stylesheet" href="/styles.css?v=illustrated-r9">
+  <script defer src="/app.js?v=illustrated-r9"></script>
+</head>
+<body>
+  <main class="chat-window" aria-label="On-Air manual assistant">
+    <header class="chat-header">
+      <div class="title-row">
+        <div class="assistant-title"><h1>Assistant</h1><span>(On-Air)</span></div>
+
+      </div>
+      <div class="availability" id="availability" data-state="connecting" role="status"><span class="status-dot" aria-hidden="true"></span><span id="connectionText">Connecting…</span></div>
+    </header>
+    <div id="setupNotice" class="setup-notice" role="status" hidden>Add the AI API key on the server to start asking questions.</div>
+    <section class="conversation" id="conversation" aria-label="Chat conversation" tabindex="0">
+      <div class="welcome" id="welcome"><div class="bubble" lang="bn">Hello! What would you like to know about the On-Air CMS ?</div></div>
+      <div class="messages" id="messages" role="log" aria-live="polite" aria-relevant="additions"></div>
+    </section>
+    <div id="attachmentPreview" class="attachment-preview" hidden>
+      <img id="attachmentThumbnail" alt="Selected screenshot">
+      <div><span id="attachmentName"></span><small>Sent to AI when you press Send.</small></div>
+      <button id="removeAttachment" type="button" aria-label="Remove screenshot">×</button>
+    </div>
+    <p id="uploadError" class="upload-error" role="alert" hidden></p>
+    <div class="composer-area">
+      <input id="imageInput" type="file" accept="image/png,image/jpeg,image/webp" hidden>
+      <button id="attachImage" class="attach-image" type="button" aria-label="Attach a screenshot" title="Attach screenshot (PNG, JPG, WebP, up to 3 MB)">+</button>
+      <label for="question" class="sr-only">Type your message</label>
+      <textarea writingsuggestions="false" spellcheck="false" autocomplete="off" autocorrect="off" autocapitalize="off" data-gramm="false" data-gramm_editor="false" data-enable-grammarly="false" id="question" rows="1" maxlength="2500" placeholder="Ask a question…" aria-describedby="inputHint"></textarea>
+      <button id="send" type="button" disabled>Send</button>
+      <span id="inputHint" class="sr-only" role="status">Ask in English, বাংলা or Banglish. Enter to send; Shift+Enter for a new line.</span>
+      <span id="charCount" class="sr-only">0 / 2500</span>
+    </div>
+  </main>
+</body>
+</html>
